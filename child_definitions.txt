@@ -1,0 +1,1968 @@
+platform:noun:a raised, level surface used as a stage.
+traveller:noun:someone or something that travels.
+corp:abbreviation:abbreviation of "Corporation," an association of persons recognized by law and authorized to carry out certain functions with powers independent of the individual members (used in a proper name).
+Panda:noun:a large black-and-white mammal that is related to bears.
+conference:noun:a meeting to discuss a particular matter.
+length:noun:the distance from one end of a thing to the other.
+good:adjective:having qualities that are desired.
+portfolio:noun:a portable case for transporting unbound papers or other printed material.
+dog:noun:a furry animal with four legs, a pointed nose, and a tail.
+prisoner:noun:a person who is held in a jail or prison while on trial or after being sentenced for a crime.
+agreement:noun:the act of coming to a common understanding or of agreeing.
+spokesman:noun:a man who speaks for one or more other persons.
+duration:noun:the length of time during which something goes on.
+performance:noun:a particular entertainment presented before an audience.
+hair:noun:a thin, thread-like strand that grows from the skin of humans and other mammals.
+breed:verb:to keep for mating and reproduction.
+exclusion:noun:the act or process of excluding.
+Buzzard:noun:a very large bird with a hooked bill and sharp claws; American vulture.
+unity:noun:the condition of being united or of acting as one.
+garage:noun:a building or part of a building built to shelter cars, trucks, or other vehicles.
+interview:noun:a meeting between a person who has applied for a job and the person who is offering the job.
+district:noun:an area of a country, city, or other place used for a particular purpose.
+widow:noun:a woman whose husband has died and who has not married again.
+stand:verb:to get in or be in a position on one's feet (often followed by "up").
+team:noun:a group of people on one of the sides in a sports event or game.
+budget:noun:a plan for how much money will be spent and earned during a certain period.
+document:noun:a written or printed paper that gives factual information or proof of something.
+celebration:noun:the act of honoring or celebrating.
+equivalent:adjective:the same as or equal to another in force, value, measure, or meaning.
+necessity:noun:a person or thing that is needed.
+replacement:noun:the act or process of substituting or replacing.
+garden:noun:an area of land used for growing flowers or vegetables.
+test:noun:a trial to find out what something is, what it is made up of, or how good it is.
+reality:noun:the state or quality of being real.
+transfer:verb:to move or carry from one person or place to another.
+castle:noun:a large, strong building where a noble lived with his family and servants.
+laugh:verb:to express happiness, amusement, ridicule, or other feelings, by making sounds with the mouth and changing the face to an expression like a smile.
+adjustment:noun:the act or process of changing or fixing something.
+competitor:noun:a person, group, or thing that competes.
+institute:verb:to bring into being or set in operation.
+effect:noun:something produced by a cause.
+luck:noun:the force believed to guide things which seem to happen to a person by chance.
+bay:noun:a part of a sea or lake that cuts into a coastline and is partly surrounded by land.
+Lady:noun:a polite word for a woman or girl.
+Father:noun:a male parent.
+phrase:noun:a part of a sentence that has meaning and grammatical order but does not have both a subject and a verb.
+Bible:noun:the main sacred writings of Judaism and Christianity.
+metal:noun:any solid mineral element that exhibits certain characteristics such as the ability to conduct heat or electricity.
+clinic:noun:a place that gives medical treatment, usually to people who do not need to stay in a hospital overnight.
+ecosystem:noun:a community of living things, together with their environment.
+calculation:verb:to find out by using arithmetic; compute.
+milk:noun:a white liquid produced by female mammals as food for their young.
+Deer:noun:a mammal with short fur, long legs, and a long neck.
+finding:verb:to come upon or meet by accident.
+autumn:noun:the season of the year between summer and winter; fall.
+Mouse:noun:a very small mammal with gray or brown fur.
+Snow:noun:soft, white flakes of ice that fall from the sky to the earth.
+satisfaction:noun:a pleasant feeling that comes from completing something and doing it well.
+growth:noun:the process of growing.
+picture:noun:a painting, drawing, or photograph.
+deal:verb:to be concerned or to handle (usually followed by "with" or "in").
+label:noun:a piece of paper or cloth that is attached to an object.
+quarter:noun:an amount equal to one fourth of a whole.
+image:noun:a picture or some other likeness of a person or thing.
+gun:noun:a weapon with a tube made of metal from which bullets, shells, or other missiles are fired.
+shareholder:noun:a person who owns shares of the stock of a business organization; stockholder.
+possession:noun:the act or condition of having or owning something.
+sport:noun:an athletic event or game played according to rules.
+Song:noun:a short musical composition for singing.
+knowledge:noun:understanding; awareness.
+idea:noun:any thought, belief, picture, or image that is formed in the mind.
+billion:noun:the number that is equal to one thousand times one million; 1,000,000,000.
+challenge:noun:an invitation to enter into a fight or other contest of skill.
+hint:noun:a sign or suggestion that is not made in a direct way.
+petrol:noun:the British word for the flammable liquid used mainly as fuel for engines.
+check:noun:a test or search to make sure that something is correct or in order.
+mayor:noun:the head of government in a village, town, or city.
+writer:noun:one who writes.
+victory:noun:success in a fight against an enemy, opponent, or something difficult.
+size:noun:the physical dimensions of anything.
+prospect:noun:something that is expected or very likely to happen.
+theater:noun:a building where plays, movies, or concerts are presented.
+Depression:noun:a mood of unhappiness and low spirits that can last a long time and cannot always be explained.
+accident:noun:reasons or causes that are not planned by anyone.
+pity:noun:sympathy or sorrow caused by another's pain, bad luck, or suffering.
+circuit:noun:a line or route around an area.
+roof:noun:the surface or covering on the top of a building.
+actor:noun:a person who acts a part in a play, a movie, or a radio or television program.
+force:noun:power, energy, or physical strength.
+identity:noun:all of those things by which a person or thing is known or is considered as being.
+increase:verb:to make larger or greater; add to.
+destruction:noun:the act of ruining completely or destroying.
+doorway:noun:the way of entrance into a room or building.
+train:noun:a connected series of railroad cars.
+business:noun:the work a person does to earn money; job or trade.
+Fall:verb:to drop downward from a higher place; descend.
+darkness:noun:lack of light.
+print:verb:to copy by transferring ink to a surface using mechanical pressure.
+candidate:noun:a person who seeks to be elected or appointed to a certain position.
+player:noun:someone who takes part in a game or sport.
+Dolphin:noun:a mammal that lives in the water.
+isolation:noun:the act of isolating or state of being isolated.
+country:noun:a large area of land where people live under the same government or have the same culture; nation.
+rod:noun:a straight, thin stick or bar.
+inn:noun:a small hotel for people who are travelling.
+need:noun:something that one wants or must have.
+Kangaroo:noun:a mammal with long pointed ears, short front legs, and big, powerful back legs.
+Army:noun:a large group of soldiers trained to use weapons to fight on land.
+registration:noun:the act or process of registering or enrolling.
+envelope:noun:a folded paper covering or container usually used to mail letters.
+protection:noun:the act of keeping something safe from harm or the condition of being protected.
+aid:verb:to give help to or assist.
+Set:verb:to put in a particular position or location.
+pause:noun:a short stop.
+architecture:noun:the act or process of designing buildings, or the profession of an architect.
+mystery:noun:a matter that is secret or that cannot be known or explained.
+attention:noun:the concentration of one's mind on something.
+Bee:noun:an insect with a hairy body, four wings, and sometimes a stinger.
+payment:noun:the act or an instance of giving  money in return for something.
+charge:verb:to give a responsibility or duty to.
+ride:verb:to be carried by a vehicle or animal.
+cold:adjective:without heat or warmth.
+opinion:noun:what one thinks about something or somebody; viewpoint.
+education:noun:the act or work of learning or training.
+tail:noun:the rear part of an animal's body that sticks out from the backbone.
+safety:noun:the condition of being safe from danger.
+treatment:noun:the act of behaving in some way toward another.
+ERA:noun:a period of time in history.
+English:adjective:of or having to do with England, or its people.
+memory:noun:the ability to remember an experience.
+teacher:noun:one whose job is teaching; instructor.
+chance:noun:the quality of happening by accident and without being planned or predicted.
+dispute:verb:to argue or debate about.
+responsibility:noun:the condition or fact of being responsible.
+potential:adjective:able to come into being; possible.
+album:noun:a book with blank pages or empty pockets in which a collection can be placed.
+Pheasant:noun:a large bird with a long tail and bright feathers.
+entertainment:noun:something that amuses or interests.
+wish:noun:a desire or hope for something that may or may not be obtained.
+shortage:noun:an amount that is less than is needed; lack.
+lawyer:noun:one whose job is to help people with legal matters and represent them in court; attorney.
+chart:noun:a sheet that gives information in the form of a graph or table.
+charter:noun:an official document given by a government or ruler to a business or other group.
+lake:noun:a large body of fresh or salt water that is surrounded on all sides by land.
+weight:noun:the quality of being heavy.
+Snake:noun:a long, narrow reptile that has scales but no legs.
+show:verb:to cause or allow to be seen.
+sector:noun:an identifiable segment or part of a landscape, area, society, political system, or the like.
+Hare:noun:a small mammal with long ears.
+judgement:noun:an opinion formed after carefully studying all of the information.
+store:noun:a place where things are sold.
+silver:noun:a shiny white metal that is soft and easy to shape.
+export:verb:to send to another country to sell.
+universe:noun:all matter and energy; all existing things, including the earth and heavens.
+mineral:noun:a substance formed in the earth that is not of an animal or a plant.
+reputation:noun:the level of respect with which a person is thought of by others.
+eagle:noun:a large bird with a strong, curved beak and very good eyesight.
+recipe:noun:a list of ingredients and instructions for making a food dish.
+name:noun:a word or group of words by which something or someone is known.
+jurisdiction:noun:the right or authority to interpret and administer the law.
+facility:noun:a building made or used for a particular activity.
+war:noun:a state or time of armed fighting between countries, states, or other groups of people.
+leisure:noun:freedom from work or other duties that take time and effort; free time.
+merger:noun:the combining of two or more companies into one, or the transfer of the property of one company to another.
+comment:noun:a written or spoken statement of opinion.
+trick:noun:something done to fool or cheat someone.
+Guest:noun:a person who is a visitor in another's home.
+captain:noun:a leader.
+filter:noun:a device used to remove dirt or other solids from liquids or gases.
+legislation:noun:a law made by a body of government.
+expertise:noun:expert knowledge or skill.
+task:noun:a piece of work to be done; duty.
+breakfast:noun:the first meal of the day, eaten in the morning.
+cream:noun:the part of whole milk that contains fat.
+missile:noun:an object or weapon that is thrown or shot at a target that is far away.
+strike:verb:to hit with the hand or a weapon.
+party:noun:a gathering of people to celebrate or have fun.
+room:noun:space that is used or available for use.
+loyalty:noun:the condition of being faithful or loyal.
+implication:noun:something hinted at or suggested, but not said directly.
+Rebel:noun:one who fights against or does not obey authority.
+continent:noun:one of the earth's seven major areas of land.
+peace:noun:a state of freedom from war or conflict.
+Earth:noun:(often capitalized) the fifth largest planet in our solar system and the third in distance from the sun.
+tape:noun:a long narrow strip of plastic, cloth, or paper that has glue on one side.
+portrait:noun:a painting, drawing, photograph or sculpture of a person.
+other:adjective:different from the one or ones mentioned.
+Rabbit:noun:a small mammal with long ears and long back legs for running or jumping.
+cable:noun:a thick, strong rope made of steel or fiber.
+chamber:noun:a room.
+expression:noun:the act of telling or showing thoughts or feelings.
+attendance:noun:the act of being present at an event.
+love:noun:strong feelings of affection for another person.
+taxation:noun:the act of taxing.
+lifetime:noun:the time during which a person's life goes on.
+employee:noun:someone who works for a person or business in return for pay.
+amphibian:noun:a small animal that spends part of its life cycle in water and part of its life cycle on land.
+tissue:noun:a group of cells in an animal or plant body that are like each other and do similar things.
+physics:definition::(used with a singular verb) the science that deals with matter and energy, their qualities, and the relationships between them.
+membership:noun:the state of being a member.
+morning:noun:the early part of the day, beginning when the sun rises and ending about noon.
+draft:noun:a rough piece of writing that needs more work; sketch.
+infant:noun:a child in the first months of life.
+stress:noun:the importance or special attention given to something; emphasis.
+view:noun:the act of looking at or seeing; examination; survey.
+privilege:noun:a right or benefit that is given only to a certain person, group, or social class.
+summary:noun:a short and usu.
+Red:noun:the color of blood; the first color on the color spectrum.
+ICE:noun:water in a frozen, solid state.
+mile:noun:a unit of length equal to 5,280 feet or 1.
+salary:noun:a fixed amount of money paid at regular times for the work a person has done.
+introduction:noun:the act or process of introducing.
+interface:noun:the equipment or programs used to communicate between different computer systems or programs.
+pilot:noun:the operator of an aircraft.
+nail:noun:a slim, pointed metal rod with a flat top.
+spectrum:noun:a band of colors that is formed when light is passed through a prism, or in some other way.
+coal:noun:a hard black or dark brown substance that is found in the earth and burned as fuel.
+medicine:noun:a drug or other substance used to treat a disease, injury, pain, or other symptoms.
+management:noun:the act or process of managing.
+standard:noun:something that is used and accepted as a guide, example, or authority.
+path:noun:a track beaten by the feet of people or animals.
+practitioner:noun:a person practicing a trade, occupation, or profession.
+diet:noun:the food and drink usually eaten and drunk by a person or animal.
+Cat:noun:a small, furry mammal with whiskers, short ears, and a long tail.
+skeleton:noun:the inner framework of bones and cartilage in vertebrate animals.
+territory:noun:an area or region of land.
+shade:noun:darkness caused by light rays being blocked.
+emission:noun:the act of emitting.
+emperor:noun:the male ruler of an empire.
+capability:noun:the quality of being skilled or able; ability.
+farm:noun:an area of land, along with buildings and equipment, used to grow crops or raise animals for food or clothing.
+pipe:noun:a tube of metal, plastic, or other material, through which a gas or liquid may flow.
+Continent:noun:one of the earth's seven major areas of land.
+door:noun:an opening through which one enters or leaves a room or building.
+invasion:noun:an act or instance of invading by an enemy or hostile army.
+start:verb:to begin some movement or activity.
+oak:noun:a tree that belongs to the beech family and bears acorns.
+theatre:noun:a building where plays, movies, or concerts are presented.
+map:noun:a picture of a particular area of the earth or sky drawn or printed to scale on a flat surface.
+demonstration:noun:an activity that shows how something works or how it is made.
+correlation:noun:a relationship or correspondence between two or more things.
+photography:noun:the art or practice of taking and making photographs.
+conclusion:noun:an ending, result, or outcome.
+President:noun:an officer elected to lead a group or organization.
+diary:noun:a daily record of a person's experiences and thoughts.
+tradition:noun:the handing down of a culture's beliefs and customs from parents to children over many years.
+skill:noun:the power or ability to perform a task well, especially because of training or practice.
+crowd:noun:a large number of people gathered together.
+clerk:noun:a person who does office work, such as keeping records, finding information, filing, and making copies.
+distribution:noun:the act of distributing.
+engagement:noun:the act of engaging or state of being engaged.
+fraction:noun:a part or very small part of a whole.
+surgery:noun:the field of medicine that treats disease and injury by fixing or removing parts of the body.
+kit:noun:a collection of items for a particular use.
+advice:noun:an idea or opinion offered as help in making a choice or a decision.
+comfort:verb:to give relief from a painful or difficult situation; soothe.
+skin:noun:the thin tissue covering the body of a person or animal.
+reduction:noun:the act of reducing or state of being reduced.
+merchant:noun:one who buys goods and sells them for a profit.
+period:noun:a section of time with a set beginning and end.
+tax:noun:a sum of money paid to a government, which the government uses to pay for its services to the people and to maintain itself.
+Twin:noun:either of two children or animals born at the same time to one mother.
+speed:noun:the act of moving rapidly or swiftly.
+insurance:noun:a protection against certain accidents that is provided by a company in return for payment of a fee.
+suit:noun:a set of clothes with a jacket and trousers or a skirt made of the same material and color.
+supplier:verb:to provide.
+duty:noun:something that a person should do because it is right or fair; responsibility.
+surprise:verb:to catch (someone or something) off guard; act upon without giving any warning.
+cinema:noun:the art or business of making movies.
+delegation:noun:a group of people chosen to speak or act for others.
+incentive:noun:something that makes a person want to work or do something.
+gift:noun:something a person gives without wanting anything in return; a present.
+operation:noun:the act or process of working or running.
+ceremony:noun:a formal act or series of acts done in a particular way to honor a special occasion.
+volume:noun:a collection of pages of writing or print bound together; book.
+information:noun:knowledge or facts that come from a source.
+Creation:noun:the act of creating or of causing something to exist.
+organism:noun:an individual living thing, such as a plant, an animal, or a germ.
+currency:noun:the money that is used in a country.
+preference:noun:a person or thing that is liked better.
+Day:noun:the period between sunrise and sunset.
+music:noun:sound with tones and rhythm that can be listened to and enjoyed.
+transition:noun:a process of changing from one position, stage, or situation to another.
+department:noun:a separate part of a large organization, such as a government, school, or business.
+Hero:noun:a person who is brave, good, and often looked up to by others.
+location:noun:place or position.
+profession:noun:a job or type of work that needs special training or study.
+tool:noun:an instrument that is usually held with the hands and helps one to do something.
+press:verb:to bear down on.
+BAR:noun:a length of metal or other strong, solid material often used to hold something back, support something, or hold things together.
+assembly:noun:a group of people gathered together, usually for a specific purpose.
+color:noun:a quality of light as our eyes see it.
+reproduction:noun:the process of reproducing or being reproduced.
+bike:noun:(informal) a short form of <strong>bicycle</strong> or <strong>motorcycle</strong>.
+liberation:verb:to free or let out.
+conflict:verb:to disagree strongly; differ.
+Aardvark:noun:a large mammal with a long snout, long ears, a long tail, and almost no hair.
+cow:noun:the adult female of cattle.
+killer:verb:to cause to die.
+summit:noun:the highest part; peak.
+Caterpillar:noun:the larva, or middle life stage, of a moth or butterfly.
+needle:noun:a thin instrument made of steel with a hole at one end for thread and a sharp point at the other.
+infection:noun:the act of infecting or an instance or condition of being infected.
+mathematics:noun:(used with a singular verb) the study of numbers, amounts, shapes, and the relationship between them, using symbols to represent these things.
+solicitor:noun:one that solicits, esp.
+entity:noun:anything that exists objectively and distinctly, whether nonliving or living; thing or being.
+reply:verb:to give an answer in words or writing.
+horse:noun:a large mammal with long legs and hooves.
+rhythm:noun:movement marked by the regular repetition of sounds.
+cupboard:noun:a cabinet with shelves for food, dishes, or other items.
+material:noun:anything used for building or making something else.
+crew:noun:a group of people who work together.
+mouth:noun:the opening in the face through which one eats, breathes, and makes sounds.
+expert:noun:someone who knows a great deal about a particular thing.
+recovery:noun:the act of getting back something that had been lost or stolen.
+borough:noun:a town that governs itself.
+life:noun:the state of being that sets animals and plants apart from rocks, minerals, and other things that are not alive.
+enterprise:noun:a plan or project that is risky, bold, or difficult to carry out; undertaking.
+Camel:noun:a large animal with long legs and a long neck.
+conversion:noun:the act or process of changing.
+action:noun:something that is done for a particular purpose.
+window:noun:an opening in a wall or vehicle that lets in air and light and provides a view out.
+rate:noun:a quantity measured with respect to another measured quantity.
+claim:verb:to state or demand as one's right.
+breach:noun:an act of breaking a law or promise.
+Milk:noun:a white liquid produced by female mammals as food for their young.
+Singer:noun:a person who sings as a job or hobby.
+tunnel:noun:an underground or underwater passage used by cars, trains, or other vehicles.
+experiment:noun:a carefully planned test used to discover something unknown.
+opponent:noun:one who fights, plays, or takes a position against another.
+society:noun:the members of a community or group considered together.
+magistrate:noun:a public official who exercises a judicial or executive function, such as a mayor or justice of the peace.
+connection:noun:something that connects.
+transformation:noun:a major change in the form, shape, character, or nature of something or someone.
+Male:adjective:of or having to do with men or boys.
+Llama:noun:an animal with long legs and a long neck.
+palace:noun:the official home of a king or queen or other persons of high rank or authority.
+detective:noun:a person, often a police officer, whose job is to find information that will solve crimes.
+equipment:noun:things made, or used, for a particular activity.
+virus:noun:a tiny organism that can reproduce only in living cells.
+bomb:noun:a metal shell filled with explosives.
+statute:noun:a law made by a legislature, as opposed to one established by the courts.
+daddy:noun:(informal) father.
+politics:noun:the work or study of government.
+Otter:noun:a mammal with brown fur, a long body, short legs, and webbed feet.
+landscape:noun:the area that can be seen from one point; view.
+spread:verb:to open or stretch out.
+preparation:noun:the act of getting something ready.
+wife:noun:a woman who is married, or the woman to whom a man is married.
+availability:noun:the condition of being available.
+water:noun:a clear liquid that has no taste or odor.
+nightmare:noun:a frightening dream.
+qualification:noun:something that makes a person fit for an activity or job.
+Chicken:noun:a common farm bird that is raised for its meat and eggs.
+proceeding:verb:to move forward after a stop.
+Brother:noun:a male person having the same mother or father as another person.
+Leopard:noun:a large mammal with short yellow or gray fur and black spots.
+furniture:noun:movable objects such as chairs, tables, and beds used to make a room fit for living in.
+factor:noun:something that has an influence on something that happens or is one of the causes of it.
+tower:noun:a tall, narrow building or part of a building that rises high above the ground.
+anxiety:noun:a feeling of being worried, nervous, or afraid that something will happen.
+Owl:noun:a bird with large eyes set in front of a large head, a strong, hooked beak, and strong, sharp claws.
+drink:verb:to swallow a liquid.
+trial:noun:the act of hearing a case in court to decide whether or not a person has broken a particular law.
+complaint:noun:an act of complaining.
+Constable:noun:a police officer in a small town or village.
+tone:noun:a single sound that is thought of as having pitch, strength, or length.
+movement:noun:change in position or location.
+hip:noun:the part on either side of the body between the waist and the thigh.
+share:noun:a part of a whole that one member of a group is given or owed.
+loss:noun:a failure to keep or continue.
+frame:noun:a structure made of parts that are joined together and that supports a larger object.
+club:noun:a heavy wooden stick that is used as a weapon.
+letter:noun:a written mark that stands for a speech sound; specific character of an alphabet.
+stuff:noun:the material or matter from or with which something is made.
+substance:noun:that of which something is made; matter.
+cup:noun:a small container used for drinking.
+record:verb:to put in writing.
+refusal:noun:the act or an instance of refusing.
+reporter:noun:a person whose job is to gather and report news for a newspaper or magazine, or for a television station or radio station.
+voter:noun:one who votes.
+fabric:noun:cloth that is woven or knitted; material.
+boat:noun:a small, open vehicle for traveling on water.
+move:verb:to change position or place.
+target:noun:an object or mark at which bullets, arrows, or darts are fired or aimed.
+Dinosaur:noun:one of a group of extinct animals.
+influence:noun:the power or invisible action of a thing or person that causes some kind of effect on another.
+Jew:noun:a person whose ancestors were the Biblical Hebrews.
+investigation:noun:the act of investigating.
+lift:verb:to bring upward; raise.
+electricity:noun:energy caused by the movement of electrons through matter.
+opportunity:noun:a chance for a better situation.
+Chimpanzee:noun:a mammal that lives in African rain forests.
+branch:noun:a woody part of a tree or bush that grows out from the trunk; limb.
+analysis:noun:a careful study of the parts of something in order to understand more about the whole.
+paper:noun:a thin material  made from wood, rags, or grasses.
+coat:noun:a piece of outer clothing with long sleeves, usually worn to keep warm.
+dividend:noun:the number to be divided by another number in math equations.
+book:noun:sheets of paper bound together between two covers.
+Bald Eagle:noun:a large eagle of the United States and Canada that is dark brown with a white head and tail.
+glass:noun:a hard, clear material that breaks easily.
+lad:noun:a boy or young man.
+leaf:noun:one of the usually green, flat parts of a plant or tree that grows from the stem or branch.
+mother:noun:a female parent.
+domain:noun:the land owned or under the control of a single ruler or government.
+fantasy:noun:imagination or something imagined.
+Fish:noun:an animal that lives in water and has fins for swimming and gills for breathing.
+colleague:noun:a person who has the same job or employer as another.
+switch:noun:a shift; change.
+Mrs:abbreviation:an abbreviation for <strong>Mistress</strong>, which is used before a married woman's name.
+republic:noun:a nation in which those who make the laws and run the government are elected by the people.
+Truth:noun:agreement with the facts or what is real.
+partnership:noun:a business that is owned by two or more persons.
+mortality:noun:the quality or state of being destined to die.
+journalist:noun:a person whose work is journalism.
+bean:noun:the seed or seed pod of certain plants.
+stream:noun:a small, flowing body of water, such as a brook or creek.
+Penguin:noun:a large water bird with webbed feet that lives in colder regions of the Southern Hemisphere.
+reference:noun:the act or fact of mentioning.
+Friend:noun:a person whom you know well and like and who likes you.
+amount:noun:measure; quantity.
+tactic:noun:a technique or maneuver used for achieving a goal, especially in battle.
+conception:noun:the forming of concepts or ideas, or the power to do so.
+comparison:noun:the act of comparing or the result of being compared.
+football:noun:a game played in the United States and Canada by two teams on a long field.
+developer:noun:someone who buys land and makes it ready to be used for homes, business, recreation, or the like.
+ingredient:noun:one of the parts of a mixture.
+victim:noun:someone who is hurt, injured, or killed by a person, group, or event.
+discussion:noun:the act or an instance of talking or writing about something.
+note:noun:a short letter.
+Cancer:noun:a disease in which certain cells divide and grow much faster than they normally do.
+type:noun:a group of things that share certain features or properties that set the group apart from others; kind.
+Eagle:noun:a large bird with a strong, curved beak and very good eyesight.
+bureau:noun:a chest of drawers.
+intelligence:noun:the ability to learn, reason, and understand.
+century:noun:a unit of time equal to one hundred years.
+Rattlesnake:noun:a venomous snake found in North, Central, and South America.
+fund:noun:a supply of money or other resources that is held for a particular purpose.
+act:noun:a thing that is done; deed.
+fighting:noun:the use of weapons, bodies, or words to struggle with someone or something; battle; quarrel.
+polytechnic:adjective:of, relating to, or involving many arts and sciences, esp.
+design:verb:to make or draw plans for the structure or form of.
+archbishop:noun:a bishop of the highest rank.
+cathedral:noun:the main church of a bishop's district.
+warmth:noun:the condition of being warm; heat.
+variation:noun:the act or process of varying, or the state or condition of being varied; change; changeability.
+admission:noun:the act, process, or result of allowing to enter.
+principle:noun:a basic law or truth on which action or behavior is based.
+cousin:noun:the son or daughter of an aunt or uncle.
+minimum:noun:the smallest or least possible amount, degree, or number.
+plain:adjective:easily seen or heard; clear; visible.
+landlord:noun:a man or woman who rents property to others.
+percentage:noun:some part of a whole based on a total of one hundred parts.
+peasant:noun:a member of the class of farm workers and small farmers in Europe and Asia.
+damage:noun:harm or injury that makes something less useful or valuable.
+representation:noun:the showing or picturing of something in a work of art.
+official:noun:a person who holds an office in a business organization or a government.
+motivation:noun:an instance or the process of motivating.
+occasion:noun:an event or the time at which it happens.
+apartment:noun:a room or set of rooms used as living space.
+bronze:noun:a mixture of copper and tin.
+decade:noun:a unit of time equal to ten years.
+gesture:noun:a movement of one's body or face that shows feeling or thought.
+desire:verb:to want or wish for.
+drop:noun:a small amount of liquid, usually with a round shape.
+tube:noun:a long, hollow piece of glass, metal, or rubber used to hold or carry liquids or gases.
+Passion:noun:any strong feeling or emotion.
+secretary:noun:a person who writes letters, keeps records straight, and manages mail.
+schedule:noun:a plan of when certain actions or events will be carried out.
+fear:noun:a strong feeling one gets when one expects danger or pain.
+defeat:verb:to win a victory over; beat in a game or battle.
+market:noun:a place where goods are sold.
+sort:noun:kind; type.
+allowance:noun:a sum of money given on a regular basis or  allowed for a particular purpose.
+clue:noun:a hint that helps solve a puzzle, problem, or mystery.
+touch:verb:to put one's hand or fingers on in order to feel.
+college:noun:a school of higher learning that one attends after high school.
+servant:noun:a person, such as a maid or cook, who has a job working in someone else's home.
+brain:noun:the organ inside the skull of humans and animals.
+holiday:noun:a day on which most people do not work so that they may honor and celebrate some person or event.
+correspondent:noun:a person who writes letters to another, especially over a period of time.
+Lion:noun:a large, very strong mammal with short tan fur.
+Bond:noun:something that joins, ties, or fastens together.
+American:adjective:of or having to do with the United States, or its people or language.
+formula:noun:a rule or way of doing something expressed in a standard way using words or symbols.
+trust:noun:a belief in the strength or truth of a person or thing.
+venture:noun:an activity or undertaking in which there is risk or the result is not certain.
+project:noun:any activity that takes great effort or planning.
+resolution:noun:strong purpose or determination.
+parish:noun:a district of a Christian religion that has its own church and priest or minister.
+bedroom:noun:a room used for sleeping.
+neck:noun:the part of the body of both human beings and animals that connects the head with the body.
+protest:noun:an objection or complaint.
+preserve:verb:to protect from being hurt or harmed.
+excitement:noun:the state of being excited.
+Ferret:noun:a European polecat that has been domesticated for use in hunting rabbits and rodents.
+Opera:noun:a play in which all or most of the words are sung and the music is played by an orchestra.
+professor:noun:a teacher with a high rank at a college or university.
+brand:noun:a kind of product made by one particular company.
+level:adjective:having a flat, even surface.
+city:noun:a large and important town where many people live and work.
+organisation:noun:the act or process of organizing.
+place:noun:a certain area of space that is taken up by something.
+collapse:verb:to fall down; give way; cave in.
+PET:noun:a tame animal people keep in their homes as a companion or for pleasure.
+fire:noun:the heat, light, and flames produced by burning.
+hole:noun:an opening or hollow cavity in something.
+Mule:noun:the offspring of a male donkey and a female horse.
+Sand:noun:tiny, loose grains of ground rock, found on beaches and in deserts.
+presence:noun:the state or condition of being in a place at a certain time.
+blood:noun:the red liquid containing oxygen and nutrients that pumps through the veins and arteries of humans and many other animals.
+survival:noun:the act or fact of continuing to be alive or survive.
+head:noun:the top or leading part of an animal body.
+lover:noun:one who is in love with another.
+communication:noun:the sharing or exchange of messages, information, or ideas.
+alarm:noun:sudden fear caused by possible danger.
+crop:noun:plants grown on a farm.
+procedure:noun:a series of steps that must be taken in order to do something.
+seat:noun:a chair, bench, or other object for sitting on.
+message:noun:spoken or written information, sent from one person or group to another.
+curtain:noun:a piece of cloth hung in a window or other opening to shut out light or to cover something.
+director:noun:a person who guides the affairs of a business or other organization.
+region:noun:a large space or area.
+relative:noun:a person who belongs to the same family as someone else.
+Black:noun:the color of the night sky; the darkest color.
+crime:noun:something a person does that is against the law.
+notice:noun:warning, news, or sign of something, especially in written or printed form.
+disposal:noun:a giving away or a getting rid of something.
+presentation:noun:the act of presenting.
+counterpart:noun:someone or something that is just like or similar to another.
+publisher:noun:a person or company that publishes books or periodicals.
+mess:noun:a state of being dirty or not neat.
+local:adjective:having to do with a particular place such as a neighborhood or town.
+timber:noun:trees that are used as wood to build houses and buildings.
+pub:noun:a bar or tavern that serves food.
+Democrat:noun:a person who believes that government should be run by the people or that all people are equal.
+discourse:noun:verbal communication; conversation.
+plan:noun:an action one intends to take; aim.
+data:noun:facts, figures, or other pieces of information that can be used to learn about something.
+Assault:noun:a violent physical or verbal attack.
+delivery:noun:an act of bringing or sending something to a particular person or place.
+paragraph:noun:a part of something written made up of one or more sentences that develop a certain idea.
+crustacean:noun:an animal with a hard, jointed shell.
+technology:noun:a field of knowledge having to do with the practical applications of science and industry, or the inventions and methods of solving problems that are produced through research in these areas.
+street:noun:a public road in a town or city along which vehicles travel.
+participant:noun:a person who takes part.
+scholar:noun:a person who has much knowledge, usually acquired from research and study.
+visit:verb:to go or come to see.
+forum:noun:the central place in ancient Roman cities where people gathered for business and public meetings.
+rat:noun:a small mammal with a pointed face and a very long tail.
+sword:noun:a weapon that has a long pointed blade fixed on a handle or hilt.
+coffee:noun:a tropical plant that produces beans.
+customer:noun:a person who buys products or services.
+report:noun:a statement or account of something.
+transportation:noun:the act of carrying or moving something.
+film:noun:a thin layer or coating.
+method:noun:a way of doing something.
+coach:noun:a closed carriage that is pulled by horses.
+escape:verb:to get free.
+reaction:noun:an action or response to something that has happened or has been done.
+declaration:noun:the act of declaring or making something known.
+Hill:noun:a raised area of land smaller than a mountain.
+chairman:noun:a man who is in charge of a meeting or committee.
+Cash:noun:money in the form of bills or coins, or payment in such form.
+video:noun:the picture part of television.
+pregnancy:noun:the state, or an instance, of being pregnant.
+heritage:noun:something that one believes, thinks, or does that comes from one's family or ethnic background; tradition.
+tour:verb:to journey from place to place.
+device:noun:an invention or machine used to perform simple tasks or something else made for a specific purpose.
+junction:noun:a point or place where things are joined together.
+situation:noun:state of affairs; circumstances.
+pain:noun:physical hurt or discomfort that is usually caused by injury or illness.
+item:noun:a single, particular thing in a group or list.
+Park:noun:an area of public land, as in a city, that is set aside for rest and enjoyment.
+extinction:noun:the act or process of becoming or making extinct.
+Night:noun:the hours of darkness between sunset and dawn.
+teenager:noun:a person of age thirteen through nineteen.
+priority:noun:precedence, esp.
+seminar:noun:a small class at a university, usually for advanced students, for study and discussion.
+youth:noun:the quality or state of being young.
+public:adjective:of, for, or having to do with all members of a community; not private.
+midnight:noun:twelve o'clock at night.
+awareness:adjective:knowing or careful (usually followed by "of").
+Eel:noun:a long fish that looks like a snake.
+agenda:noun:a list of things to be done or talked about.
+fuel:noun:anything such as wood or gasoline that is burned as a source of energy.
+nest:noun:a structure used by a bird to lay eggs and rear young.
+clause:noun:a group of words that has a subject and a verb.
+winter:noun:the season of the year between autumn and spring.
+finance:noun:the management of money or other resources.
+beer:noun:an alcoholic drink made of hops and malt.
+gate:noun:a part of a fence or wall that swings to open and close.
+vegetable:noun:a plant or part of a plant, such as carrots, beans, or lettuce, that is used for food.
+receiver:noun:a person who receives.
+settlement:noun:the act of settling, or the condition of being settled.
+scientist:noun:a person who works in some branch of science.
+air:noun:the mixture of gases that surrounds the earth.
+guardian:noun:a person who guards or protects.
+average:noun:a usual amount or kind; something that is not outside the ordinary.
+Cougar:noun:a common name for a puma, a large wild cat with tan fur.
+norm:noun:a model or standard, esp.
+inquiry:noun:a process of looking for truth or correct information.
+visitor:noun:one who makes a visit.
+money:noun:the coins or paper notes of a country used to buy things or pay for services.
+version:noun:a description or report in a particular style or from one point of view.
+Mongoose:noun:a mammal related to the ferret, known for its ability to kill poisonous snakes.
+fellow:noun:a man or boy.
+Ass:noun:a mammal with long legs and hooves that is closely related to the horse.
+flower:noun:the part of a plant that has petals and that makes fruit or seeds; blossom.
+scheme:noun:a plan or plot.
+youngster:noun:a young person; child.
+month:noun:one of the twelve parts of a year.
+priest:noun:a person who is authorized by a church to lead prayers and religious services.
+battle:noun:a fight between two armed persons or forces during a war.
+thesis:noun:a statement or proposition put forward and supported by proof or argument.
+maybe:adverb:perhaps; possibly.
+pace:noun:the length of one step; stride.
+existence:noun:the condition of being alive or real.
+wage:noun:(often plural) money paid in a regular way to a person for doing work or giving help.
+mission:noun:a group of people sent to a foreign land to set up relations and to start trade or religious work.
+product:noun:something made by means of either human work or that of a machine.
+wire:noun:a thin rod or thread of metal.
+resident:noun:a person who lives in a particular place.
+rabbit:noun:a small mammal with long ears and long back legs for running or jumping.
+divorce:noun:the ending of a marriage as recognized by law.
+liberty:noun:freedom from being confined or controlled.
+personnel:noun:all of the people who work for a business or other organization.
+remark:verb:to comment in a casual way.
+formation:noun:the act of forming or the state of being formed.
+interpretation:noun:the act or process of explaining or understanding the meaning of something.
+protein:noun:a substance that is made up of nitrogen, carbon, oxygen, hydrogen, and possibly other elements.
+arrival:noun:the act of reaching a certain place or goal.
+juice:noun:the natural liquid from plants or meats.
+shelf:noun:a thin, flat piece of wood, metal, or other material that is attached to a wall or set into a piece of furniture.
+poem:noun:a piece of writing, often with words that rhyme and have a particular rhythm.
+tension:noun:the act of stretching or state of being stretched; strain.
+pass:verb:to go past; move beyond.
+mistake:noun:a thought or action that is not correct; error.
+King:noun:a male head of a royal family who rules a country for life.
+analyst:noun:someone trained or skilled in a particular type of analysis.
+consultation:noun:the act or process of consulting.
+criterion:noun:a standard or test by which to judge or decide.
+stop:verb:to halt or cause to halt.
+Snail:noun:a small animal with a soft body and a spiral shell.
+economy:noun:the careful use of money, resources, and means of production.
+delegate:noun:a person who is chosen to speak or act for others.
+essay:noun:a short piece of writing that gives the writer's ideas, feelings, and opinions on a particular subject.
+Maker:noun:someone or something that makes.
+county:noun:one of several sections into which a U.S. state is divided.
+inch:noun:a unit of length equal to one twelfth of a foot or 2.
+tournament:noun:a contest of skill including a series of games where those who lose one game may no longer take part.
+camp:noun:an outdoor area where tents or rough shelters are set up to live in or sleep in for a time.
+iron:noun:a heavy gray metal that is one of the chemical elements.
+failure:noun:the act of not succeeding or not doing.
+employer:noun:a person or business that pays others to work.
+article:noun:a single thing; one item out of a group of similar objects.
+Coyote:noun:a North American mammal that is closely related to dogs, foxes, and wolves.
+interaction:noun:action of one upon another or others; action in response to others; influence, or effect.
+stance:noun:the physical position of the body, esp.
+gentleman:noun:a polite and honorable man.
+confidence:noun:a sense of trust or faith in a person or thing, or in oneself.
+hotel:noun:a place with many rooms and beds where people pay money to sleep, eat meals, or buy other services.
+fluid:noun:a liquid or gas.
+journal:noun:a record of a person's experiences, thoughts, or daily events; diary.
+CORE:noun:the hard center part of certain fruits.
+silence:noun:a lack of sound; quiet.
+mode:noun:a way of doing something.
+Beetle:noun:an insect with a pair of hard front wings that covers a pair of thin wings.
+resistance:noun:the act or process of resisting.
+succession:noun:the act or process of following or coming after something or someone else.
+difficulty:noun:the condition of being hard to do.
+contact:noun:the touching of two things or people.
+trip:noun:the act of traveling; a journey.
+terrace:noun:a flat, paved surface outside of a house or other building; patio.
+acquisition:noun:the act or process of acquiring.
+concept:noun:a general idea or thought.
+Parrot:noun:a tropical bird with a short, hooked bill and brightly colored feathers.
+reflection:noun:the act of reflecting or state of being reflected.
+network:noun:a system that involves a number of persons or groups.
+disaster:noun:a sudden event causing much damage or suffering.
+particle:noun:a tiny amount or small piece; speck; trace.
+accountant:noun:a person who checks and takes care of business records or accounts.
+logic:noun:a way of solving a problem that uses careful thought and reasoning.
+final:adjective:happening at or being the end of something; last.
+library:noun:a place where books, records, and other materials are kept and from which they may be borrowed.
+champion:noun:a person or animal that has taken first place in a contest or game; winner.
+consequence:noun:that which follows; result.
+lamp:noun:a device that gives off light.
+output:noun:the amount produced in a given time period.
+accent:noun:the stress a speaker gives to one syllable in a word.
+reign:noun:rule by a king or queen.
+boundary:noun:something that marks the edge or limit.
+triumph:noun:the winning of a great victory or success.
+Finch:noun:a small bird with a bill that is excellent at cracking seeds.
+Nation:noun:a people living in the same region of the world and having a common history, language, and culture.
+recommendation:noun:the act or process of recommending.
+religion:noun:a set of beliefs about how the universe was made and what its purpose is.
+capacity:noun:the amount that can be held in a particular space.
+hierarchy:noun:a body of persons or entities graded according to rank or level of authority.
+debate:noun:a discussion between two people or groups who disagree on an important subject.
+ambition:noun:a strong desire to become famous, rich, or to reach a goal.
+pot:noun:a deep round container made of metal, glass, or clay, used for cooking food.
+work:noun:the use of energy or effort to achieve a result by doing or making something; labor.
+person:noun:a human being.
+natural resources:noun:materials that are found in nature and that can be used by people in many ways.
+detail:noun:a small item; a particular.
+Butterfly:noun:an insect with four large wings that flies mostly in the daytime.
+measure:noun:the exact size, weight, or amount of something that is found by using a ruler, yardstick, scale, or similar device.
+summer:noun:the warmest season of the year, falling between spring and autumn.
+account:noun:a story or report.
+fact:noun:something said or known to be true.
+geography:noun:the science of the earth's surface and all life on it.
+Villa:noun:a large, luxurious country house or estate.
+verse:noun:poetry or a poem.
+program:noun:a plan of what will be done; schedule.
+property:noun:all of one's possessions taken as a whole, or a part of those possessions.
+modification:noun:the act of modifying, or the condition of being modified.
+applicant:noun:a person who applies for something, such as a job.
+point:noun:the sharp end of something.
+office:noun:a place where business or professional work is done.
+storm:noun:a violent disturbance in the atmosphere that brings rain, snow, wind, thunder, or lightning.
+revolution:noun:the overthrow of a political system or government by force, and the setting up of a new government in its place.
+husband:noun:a man who is married; the man to whom a woman is married.
+bread:noun:a food made by baking a dough of flour or meal.
+Alligator:noun:a large reptile with short legs, a long body and tail, and a long, wide snout.
+radio:noun:a way of sending signals made of waves that travel through the air.
+patch:noun:a small piece of material used to cover a hole or tear or to make a weak place stronger.
+term:noun:a word or phrase for something that might be known only by people who have a particular job, interest, or hobby.
+injury:noun:any damage or wrong that causes pain or difficulty.
+human:adjective:having to do with or being a part of people.
+classroom:noun:a room in a school or college where classes are held.
+Town:noun:an area with streets, houses, and buildings that is larger than a village but usually smaller than a city.
+interval:noun:the period of time between two events or situations.
+separation:noun:the act of separating or condition of being separated.
+Angel:noun:a spiritual being who acts as a servant or messenger of God.
+tooth:noun:one of the hard, white, bony objects that grow in rows in the jaws of people and animals.
+gaze:verb:to look steadily.
+focus:noun:the point at which rays of light or heat come together or from which they seem to move away.
+constraint:noun:something that compels, confines, or restrains.
+career:noun:the work a person chooses to do through life.
+format:noun:the way in which something is arranged or organized.
+accommodation:noun:the act or process of accommodating.
+lecture:noun:a talk given in front of an audience.
+temperature:noun:the degree of heat or cold of an object or an environment.
+half:noun:one of two equal parts of a whole.
+cheek:noun:either side of the face between the nose and the ear.
+pig:noun:an animal with a wide, flat nose, four short legs, a thick body, and a short, curly tail.
+lifespan:noun:the length of time that a human, animal, or plant lives or can be expected to live.
+discipline:noun:training of the body or mind according to rules or principles.
+championship:noun:(sometimes plural) one or more contests held to decide the champion.
+corporation:noun:a group of people allowed by law to do certain things as if they were one person.
+boot:noun:a covering for the foot and all or some of the leg.
+plank:noun:a length of wood thicker than a board.
+riot:noun:a violent disturbance caused by a large number of people.
+carrier:noun:a person who carries or brings something.
+rodent:noun:a small mammal with long front teeth used for gnawing.
+duke:noun:a nobleman with the highest rank below a prince.
+income:noun:the money received for work or from property that is owned.
+ocean:noun:the vast body of salt water covering about three quarters of the earth's surface.
+police:noun:a department of a town, city, or state government that has the power to enforce laws, investigate crimes, and keep order.
+Empire:noun:a group of nations or peoples under one ruler or government.
+transport:verb:to carry from one place to another.
+Lobster:noun:an animal with a hard, jointed shell that lives in the ocean.
+Grant:verb:to present or give what is asked for or wanted.
+measurement:noun:the act or process of measuring.
+access:noun:a way of approaching or coming to a place.
+consent:verb:to give permission or approval; agree (often followed by "to").
+combination:noun:the result of an act of combining; things that are brought together or combined.
+judge:noun:a person trained to hear and decide cases brought before a court of law.
+Elephant:noun:an enormous mammal with a very long nose called a trunk.
+promise:noun:a statement that something absolutely will happen or be done.
+Clay:noun:moist, stiff earth that is used for making brick, pottery, and tile.
+girl:noun:a female child or teenager.
+importance:noun:the quality or condition of being important.
+Crocodile:noun:a large reptile that is found in tropical swamps.
+spider:noun:a small animal with eight legs and a body made up of two parts.
+consultant:noun:someone whose job it is to give advice to others on a particular subject; expert.
+Village:noun:a small town or community, often in the country.
+limit:noun:the point at which something ends; a boundary or border.
+plastic:noun:an artificial substance made from certain kinds of chemicals that can be easily shaped when soft.
+machinery:noun:machines in general.
+Porcupine:noun:a small mammal with bristles or spines in its fur.
+Tiger:noun:a large, very strong mammal with short, yellow-orange fur and black stripes.
+exception:noun:the act or fact of leaving out.
+Chancellor:noun:the head of state in Austria or Germany.
+concern:verb:to have to do with; be about; affect.
+Job:noun:a particular task or piece of work.
+rent:noun:a regular payment made to an owner of property for the right to live in or use that property.
+FIG:noun:a soft fruit, with many small seeds, that grows on a tree native to the Mediterranean, or the tree on which the fruit grows.
+stimulus:noun:something that causes or increases action, feeling, or thought.
+announcement:noun:a public or formal statement.
+lip:noun:either of the upper or lower edges of flesh that circle the mouth and are used in speech.
+seed:noun:the small part of a flowering plant that grows into a new plant.
+zone:noun:an area that is divided from other areas because of a particular use or some other special quality.
+doctrine:noun:a belief or set of beliefs held by a religion, government, or other group.
+picnic:noun:a social gathering at which food is eaten outdoors.
+excuse:verb:to forgive or pardon.
+aspect:noun:a part or element.
+module:noun:a part of a device or machine that can be separated from the main section.
+installation:noun:the act of installing or condition of being installed.
+result:verb:to happen because of something.
+talent:noun:a natural skill or ability.
+mud:noun:wet earth that has been turned soft and sticky.
+jewelry:noun:rings, watches, necklaces, or other ornaments; jewels.
+coalition:noun:an alliance, esp.
+steam:noun:water vapor formed by boiling.
+height:noun:the distance from the bottom to the top.
+tourist:noun:a person who is travelling for pleasure.
+inspector:noun:one who inspects, often in an official capacity.
+whole:adjective:having the entire amount or length.
+Pigeon:noun:a bird with a plump body, small head, and short legs.
+woman:noun:an adult female human.
+journey:noun:a long trip from one place to another.
+politician:noun:a person involved in party politics.
+Ostrich:noun:a large, powerful African bird that can run very fast but cannot fly.
+driver:noun:someone who drives.
+issue:noun:something that is made, sent out, or published.
+prayer:noun:the act of asking God or another spiritual being to use his or her power.
+wood:noun:the hard material lying under the bark that makes up the trunk and branches of a tree.
+psychology:noun:the study or science of the mind and of the ways that people feel and act.
+corner:noun:the place where two lines or surfaces meet to form an angle.
+floor:noun:the lowest surface in a room; the surface on which one stands in a room.
+strength:noun:the state, quality, or condition of being strong.
+Flea:noun:a tiny insect that does not have wings but can jump far.
+soda:noun:a drink made with a sweet flavoring and water that contains carbon dioxide.
+welfare:noun:a state of health, happiness, and good fortune.
+round:adjective:shaped like a ball or circle.
+paint:noun:a mixture of liquid and pigments that is used to cover the surface of something.
+shift:verb:to change one's position, or to move from one place to another.
+loan:noun:something that is lent or borrowed.
+chip:noun:a small piece broken, cut, or chopped off of a hard material.
+sequence:noun:a pattern or process in which one thing follows another.
+Sheep:noun:an animal with hooves, hollow horns, and long, curly hair.
+client:noun:one who pays for the services of another.
+beach:noun:the land at the edge of a lake, ocean, or other body of water.
+consumption:noun:the act or process of using up or consuming.
+stability:noun:the condition or quality of being stable.
+speech:noun:the power to speak, or the act of speaking.
+productivity:adjective:making or producing easily or in large amounts.
+publication:noun:the act of publishing printed material.
+Word:noun:a sound, group of sounds, or the symbols for such sounds in writing that have some meaning.
+agency:noun:a company or organization that does business in support of other companies or people.
+quantity:noun:amount or number.
+explosion:noun:the act of bursting or the noise made by bursting.
+expense:noun:money needed to buy or do something; cost.
+Order:noun:a direction or command.
+glance:verb:to take a quick look.
+rival:noun:a person whom one tries to be better than; competitor.
+cut:verb:to pierce, slice, or open with a sharp tool such as a knife, ax, saw, or scissors.
+component:noun:a part of something.
+baby:noun:a very young girl or boy; infant.
+completion:noun:the act or process of finishing or completing.
+earth:noun:(often capitalized) the fifth largest planet in our solar system and the third in distance from the sun.
+expenditure:noun:the act of paying or expending.
+birthday:noun:the calendar day and month of one's birth, usually celebrated each year as that date occurs.
+virtue:noun:right action or thoughts; goodness.
+family:noun:a group made up of a parent or parents and their children.
+guitar:noun:a stringed instrument with a long neck and five, six, or twelve strings that are strummed or plucked.
+sandwich:noun:slices of bread with other food between them such as meat, cheese, or jelly.
+question:noun:a sentence that asks for a reply.
+prize:noun:a reward given to the winner of a contest or game.
+Navy:noun:(often capitalized) the part of a nation's military organization that conducts war on or over the sea.
+storage:noun:the act of storing or state of being stored.
+Dragonfly:noun:a brightly colored insect with a long, narrow body.
+style:noun:the manner in which something is said or done.
+transaction:noun:the act of doing business.
+incidence:noun:the frequency with which something happens or the range over which it occurs.
+stomach:noun:the organ in the body that receives food that has been swallowed and begins to digest it.
+reserve:verb:to hold back or save for later use.
+election:noun:the process of choosing a person for office by voting.
+tenant:noun:a person or group that occupies or uses another's house, office, building, or land, esp.
+middle:adjective:halfway between two things, places, or points.
+aunt:noun:the sister of one's mother or father.
+Call:verb:to say in a loud voice or shout out.
+age:noun:the length of time that a person or thing has existed.
+female:noun:any person or animal of the sex that produces eggs or gives birth to young.
+master:noun:a person with power or control.
+chocolate:noun:a food substance that is made from ground cacao seeds.
+nerve:noun:any of the fibers that carry messages to and from the brain and other parts of the body.
+experience:noun:something that a person has done or lived through.
+artist:noun:a person who is good at painting, music, writing, or any other art.
+background:noun:the part of a picture or scene that is towards the back or seems to be furthest away.
+audience:noun:a group of people gathered to see or hear something.
+finger:noun:one of the five jointed parts at the end of the hand.
+allegation:noun:an assertion made in the absence of positive proof.
+tribunal:noun:a court of justice.
+suggestion:noun:the act of suggesting or state of being suggested.
+security:noun:freedom from fear or danger; safety.
+Service:noun:the act or an instance of helping.
+oxygen:noun:a gas with no color or smell that is one of the chemical elements.
+way:noun:a road or path leading from one place to another.
+trouble:verb:to disturb or worry.
+conviction:noun:the act or process of finding a person guilty of a crime.
+obligation:noun:something that someone should or should not do because of a law or moral principle.
+industry:noun:the activity of process of turning raw materials into finished products, or a particular business that does this.
+Easter:noun:a Christian holiday to celebrate that Jesus Christ returned to life after he died.
+fraud:noun:the use of lies or tricks to cheat or take advantage of in a way that is often against the law.
+travel:verb:to journey from place to place.
+stage:noun:a raised platform used for concerts, plays, talks, and other performances.
+withdrawal:noun:the state, act, or process of withdrawing.
+employment:noun:an instance or act of employing.
+contrast:verb:to compare in order to make differences clear.
+majority:noun:the greater number or amount; a number or amount greater than half.
+Dog:noun:a furry animal with four legs, a pointed nose, and a tail.
+White:noun:the color of snow or salt; the lightest color.
+track:noun:a mark or series of marks left on the ground by the feet of people or animals, or the wheels of machines; trail.
+soul:noun:the part of human beings separate from the physical body that is thought of as the center of feeling, thought, and spirit.
+trace:noun:a mark or sign of a past event or thing.
+desk:noun:a piece of furniture with drawers and a flat surface used for reading and writing.
+Oyster:noun:a small animal with a soft body and a hard shell in two pieces.
+cat:noun:a small, furry mammal with whiskers, short ears, and a long tail.
+ambulance:noun:a vehicle used to carry ill or injured people to a hospital.
+catalogue:noun:an organized list of things such as book titles, goods for sale, or other items.
+Shrew:noun:a very small animal with a long, pointed nose and tiny eyes.
+research:noun:careful study of something in order to find out information about it.
+Iguana:noun:a large lizard found mostly in the warmer parts of Central and South America.
+Bench:noun:a long seat for two or more people.
+environment:noun:the things and conditions that are all around one.
+officer:noun:a person holding a position of trust and responsibility in a business, organization, or government agency.
+field:noun:a wide area of open land often used for growing crops.
+inflation:noun:an increase in the average price level.
+percent:noun:one part or unit of each hundred.
+friendship:noun:the state or condition of being a friend.
+sergeant:noun:a rank above corporal in the U.S. Army, Marine Corps, or Air Force.
+system:noun:a group of related things or parts that work together as a whole.
+proposition:noun:a suggested plan of action.
+Monopoly:noun:complete control over a service or product within a given area.
+consideration:noun:careful attention or thought.
+BAN:verb:to forbid or have an official rule against; prohibit.
+Moth:noun:an insect that has broad wings and flies mostly at night.
+wool:noun:the thick, soft, often curly hair of sheep, goats, llamas, and other animals.
+advertise:verb:to present as good or favorable in order to win people's business or support.
+release:verb:to set free.
+decision:noun:the act or result of making up one's mind.
+Chipmunk:noun:a small brown animal similar to a squirrel, having a striped back and a flat, bushy tail.
+invitation:noun:the act of inviting.
+personality:noun:all of the qualities of a person that make that person different from others.
+emotion:noun:a strong feeling such as joy, hatred, sorrow, or fear.
+wall:noun:a structure that forms the side of a building or divides or shuts off a space.
+traffic:noun:the movement of people or vehicles along a sidewalk, road, or other route of travel.
+mum:noun:an informal British word for mother.
+shop:noun:a small store.
+aircraft:noun:any machine that can fly through the air, such as an airplane, helicopter, glider, or balloon.
+pocket:noun:a small piece of material, open at the top and sewn onto clothing.
+piano:noun:a musical instrument with a keyboard and many wire strings.
+respiration:noun:the act of breathing.
+custom:noun:a way of acting that is usual or accepted for a person or a social group.
+owner:noun:a person who owns.
+game:noun:something done for fun or amusement; play.
+wine:noun:the juice of grapes that has been fermented and contains alcohol.
+Interior:adjective:being inside or within.
+phase:noun:a particular stage in a cycle of development or process of change.
+Spider:noun:a small animal with eight legs and a body made up of two parts.
+Emu:noun:a large bird with long legs that runs very fast but can not fly.
+peak:noun:the top part of a mountain that rises to a point, or such a mountain itself.
+permission:noun:the act of permitting.
+planet:noun:a large body in outer space that circles around the sun or another star.
+prosecution:noun:the initiating and continuing of legal proceedings against one or more persons.
+subsidy:noun:direct financial assistance provided by the government to a business, industry, educational institution, individual, or the like.
+uncle:noun:the brother or brother-in-law of one's father or mother.
+quality:noun:a feature that makes a person or thing what it is.
+justification:noun:something that explains, justifies, or defends, as an explanation or supporting evidence.
+signal:noun:a movement, action, or device used to give directions, warning, or other information.
+science:noun:a system of studying, testing, and experimenting on things in nature.
+Moon:noun:the earth's natural satellite.
+dish:noun:a container for serving or holding food, such as a plate, cup, or bowl.
+sheep:noun:an animal with hooves, hollow horns, and long, curly hair.
+laboratory:noun:a place used for scientific experiments.
+harm:noun:injury or hurt.
+jacket:noun:a short coat used as a piece of outer clothing.
+steel:noun:a hard, strong metal made from iron mixed with carbon.
+Green:noun:the color of grass or of young, growing leaves; the color between yellow and blue on the color spectrum.
+instinct:noun:the cause of natural behavior that is not learned in any species.
+hunter:noun:one who hunts.
+examination:noun:the act of examining; inspection.
+Mill:noun:a place where raw grains are crushed and ground to make flour.
+architect:noun:a person who designs buildings and directs their construction.
+processor:noun:a series of actions used to produce something or reach a goal.
+motion:noun:the act or particular way of changing place; movement.
+Caribou:noun:an animal with long legs and a long neck.
+drug:noun:a substance used to cure or heal; medicine.
+process:noun:a series of actions used to produce something or reach a goal.
+waste:verb:to use or spend in a careless way or for little or no return.
+governor:noun:a person who leads a government, especially that of a state of the United States.
+Skunk:noun:a small mammal with black and white fur and a bushy tail.
+square:noun:a flat, closed figure with four straight sides of equal length and four angles of equal measure.
+theft:noun:an act of stealing.
+chapter:noun:one of the main parts of a book.
+contract:noun:an agreement that is supported by the law.
+Quail:noun:a bird related to the chicken that lives on the ground and is often hunted for sport and food.
+assistant:noun:a person who gives help, aid, or assistance.
+star:noun:any of a vast number of heavenly bodies visible from earth as points of light in the night sky.
+bed:noun:a piece of furniture used for resting or sleeping.
+studio:noun:the room where an artist works.
+weekend:noun:the part of the week between Friday evening and Sunday evening.
+Horse:noun:a large mammal with long legs and hooves.
+joy:noun:a great feeling of happiness or pleasure; delight.
+sleep:verb:to be in the state of rest for the body and mind in which the eyes are closed and one is not fully conscious.
+approach:verb:to come or go near to.
+interest:noun:the desire to learn, know, or take part in something.
+happiness:noun:the fact or condition of being happy or glad.
+packet:noun:a small bundle or parcel.
+chemistry:noun:the science that studies the form and function of basic elements and their compounds.
+illustration:noun:a picture or drawing used to explain or decorate a book or other written material.
+bridge:noun:a structure built over a river, railroad, or other obstacle, that allows people to travel across.
+involvement:verb:to have as a necessary part or result; include.
+democracy:noun:a form of government in which power rests with the people, either directly or through elected representatives.
+framework:noun:a structure that supports something built on or around it.
+attitude:noun:a way of feeling or thinking about something or someone.
+fight:noun:the use of weapons, bodies, or words to struggle with someone or something; battle; quarrel.
+pension:noun:money paid at regular times by a former employer to a person who has retired, or by the government to a person who is not able to work.
+movie:noun:a motion picture; film.
+Rooster:noun:an adult male chicken or the male of another closely related bird, such as the pheasant; cock.
+purpose:noun:a reason or plan that guides an action; design or goal.
+commission:noun:the act of doing, performing, or committing.
+Acre:noun:a unit of area equal to 43,560 square feet, used to measure land.
+bird:noun:an animal with two wings, two feet, and a body covered with feathers.
+sociology:noun:the scientific study of human society, esp.
+Congress:noun:the branch of a national government that makes laws.
+Sin:noun:an act of not obeying religious law.
+guard:verb:to protect from danger or harm.
+hardware:noun:tools and equipment used for making and fixing things.
+cotton:noun:a plant that makes soft, white fibers.
+investment:noun:the act or process of investing.
+flesh:noun:the soft tissue, including muscle and fat, that lies between the skin and the bones.
+Ox:noun:one of a breed of large cattle used on farms to pull heavy loads.
+State:noun:the condition of a person or thing.
+survey:verb:to have a general look at.
+arthropod:noun:a large group of animals with hard shells on the outsides of their bodies, legs with joints, and no bones inside their bodies.
+cabinet:noun:a piece of furniture with shelves, compartments, or drawers and usually covered by a door or doors.
+language:noun:the system of spoken or written words with which people communicate thoughts, ideas, or feelings.
+Raven:noun:a large, shiny, black bird that looks like a crow.
+Internet:noun:the world's largest computer network, which is made of millions of computers that are linked together.
+Death:noun:the end of life in any living thing, or the end of the life of a particular individual.
+Hamster:noun:a very small mammal with a round body, short tail, and large pouches in its cheeks.
+fruit:noun:the part of a plant that has seeds and flesh, such as apple or strawberry.
+pair:noun:two things that are alike and meant to be used together.
+win:verb:to do the best or come first in a contest or game.
+railway:noun:a railroad.
+criticism:noun:the act of judging what is good or bad in something.
+Goat:noun:an animal with hooves, hollow horns, and rough hair.
+uncertainty:noun:the condition or quality of being uncertain.
+example:noun:something that shows what a group of things is like.
+chief:noun:the most powerful or important person in a group; leader.
+intervention:noun:the act of intervening.
+event:noun:anything that happens.
+appearance:noun:the act or an instance of coming into view or appearing.
+sympathy:noun:kind understanding and concern for others when they are sad, suffering, or having trouble.
+explanation:noun:the act or process of making clear in speech or writing.
+princess:noun:a daughter or granddaughter of a king or queen.
+Pelican:noun:a large water bird that lives in warm areas.
+occupation:noun:the work a person does to earn a living; profession.
+dinner:noun:the main meal of the day.
+premium:noun:something offered as an inducement, as to buy a certain product.
+search:verb:to look through very carefully in order to find something.
+topic:noun:a subject of discussion or conversation.
+lesson:noun:a period of instruction in a particular thing, or something that is intended to be learned or studied.
+satellite:noun:a heavenly body that moves around a planet or another larger body.
+flag:noun:a piece of cloth, in the shape of a rectangle or triangle, with colors and designs.
+car:noun:an automobile.
+voice:noun:the sounds produced through the mouth by a human being.
+element:noun:a part of any whole.
+Crown:noun:a covering for the head often made of gold or silver and decorated with jewels.
+cottage:noun:a small house.
+appeal:noun:an earnest request for help.
+allocation:transitive verb:to assign or set aside (money or other resources) for some specific use.
+individual:adjective:single, separate, or distinct.
+historian:noun:one who writes about or is an expert on history.
+gang:noun:a group of people who come together to cooperate in some activity.
+Ape:noun:a mammal in the group of primates, which includes chimpanzees, gibbons, gorillas, and orangutans.
+author:noun:the writer of a book, play, story, or other written work.
+credit:noun:the quality or condition of being able to be believed or trusted.
+Pope:noun:(often capitalized) the head of the Roman Catholic Church.
+defender:verb:to protect from harm; guard.
+discovery:noun:the act of discovering.
+surface:noun:the outside limit or top layer of something.
+stroke:noun:an act or instance of striking.
+ranger:noun:a person whose work is looking after or patrolling a park, forest, or other natural area.
+discount:verb:to take away from a cost or price.
+repair:verb:to put in good condition again after damage has been done; fix.
+commitment:noun:a pledge or obligation to fulfill an act or function.
+company:noun:a business firm or organization.
+geology:noun:the study of the physical structure of the earth and how it has changed over time.
+carbon:noun:a chemical element found in all living things.
+section:noun:any part of a whole, or a part that can be seen as distinct in some way from the whole.
+climate:noun:the usual weather conditions in a place.
+vision:noun:the ability to see; sight.
+resort:verb:to go to or turn to for help, often as a last choice when everything else has been tried.
+structure:noun:a thing made up of a number of parts joined together in a certain way.
+fragment:noun:a broken-off or incomplete part.
+indicator:noun:a person or object that indicates.
+staff:noun:a pole or rod often used as an aid in walking or hiking; walking stick.
+promotion:noun:a raise to a higher grade or position.
+Impala:noun:an African antelope with long legs and reddish brown fur.
+mammal:noun:a warm-blooded animal with fur or hair on its skin and a skeleton inside its body.
+shape:noun:the appearance of an object as defined by its outer surface or outline; form.
+Ladybug:noun:a small, round beetle that is red or orange with black spots.
+support:verb:to bear.
+illness:noun:the condition of being ill; sickness.
+manager:noun:the person who controls a business or acts as the leader of a plan or project.
+park:noun:an area of public land, as in a city, that is set aside for rest and enjoyment.
+identification:noun:the act of showing who a person is or what a thing is.
+trainer:noun:a person who trains people or horses so they are strong and ready for competition.
+goal:noun:a result or end that a person wants and works for; aim or purpose.
+tale:noun:an account of a real or made-up event; story.
+Rat:noun:a small mammal with a pointed face and a very long tail.
+law:noun:the set of rules that people in a society must follow.
+van:noun:a closed truck or car used to move people or goods.
+Devil:noun:(often capitalized) the chief spirit of evil in Christianity.
+bulk:noun:a large size or mass.
+approval:noun:the act of approving.
+machine:noun:a device with a system of parts that work together to perform a task.
+chapel:noun:a small building, or a room in a larger building, used for worship.
+Flamingo:noun:a large, tropical, wading bird with very long legs, a long neck, and bright pink or red feathers.
+agent:noun:a person who has been given the power to do certain actions for another person.
+bone:noun:the hard tissue that forms the skeleton of a person or animal.
+nose:noun:the part of the face on people and certain animals through which they breathe and smell.
+advantage:noun:a better chance or position; upper hand.
+application:noun:the act of putting to use.
+joke:noun:a short story, usually with a funny ending, that is told to make people laugh.
+Doctor:noun:a person trained and licensed to treat sick people or animals.
+indication:noun:anything that indicates, such as a sign.
+behavior:noun:the way a person acts or behaves.
+object:noun:anything that has shape or form and can be seen or touched.
+controversy:noun:a disagreement; debate.
+troop:noun:a group or gathering of people, animals, or things.
+margin:noun:an edge or the area near it; border.
+grammar:noun:the rules for forming the words and sentences of a language.
+regulation:noun:a rule or law that controls or directs people's actions.
+committee:noun:a group of persons chosen to give attention to a particular matter.
+alliance:noun:a group of people, countries, or groups that share certain goals and agree to work together.
+sheet:noun:a large piece of cotton or linen cloth used to cover a bed.
+pride:noun:an inborn feeling of self-worth.
+exposure:noun:the act or process of exposing.
+oil:noun:any one of the greasy liquids that come from minerals, animals, plants or chemicals.
+suspicion:noun:the act or an instance of not believing or of suspecting.
+earl:noun:a British nobleman of a particular rank.
+exercise:noun:activity done to keep the body or mind strong or to make them stronger.
+factory:noun:a building or set of buildings where products are made by machines.
+proportion:noun:a part of a whole.
+gear:noun:a part of a machine that causes another part to move because of teeth which connect the two moving parts.
+food:noun:anything that contains nutrients and is eaten by living creatures in order to maintain life, health, and growth.
+selection:noun:the act of selecting.
+cliff:noun:a high, steep face of rock or earth.
+plaintiff:noun:one who initiates a lawsuit against another.
+concession:noun:an act or instance of yielding or conceding.
+rail:noun:a bar of wood or metal that runs between two posts and serves as a fence or barrier.
+butter:noun:a solid white or yellow fat made by churning cream and used for cooking and spreading on bread.
+cigarette:noun:a short, narrow tube of thin paper that contains cut tobacco for smoking.
+belt:noun:a strip of cloth, leather, or other material worn around the waist.
+Speaker:noun:a person who speaks.
+stock:noun:a supply ready for use; store.
+plant:noun:one of a large group of living things that use sunlight to make their own food.
+guide:verb:to direct or lead along a way that is not familiar.
+Balance:noun:an instrument for weighing objects that has two flat pans hanging from or resting on a bar; scales.
+toy:noun:any object that can be used in play, especially by children; plaything.
+museum:noun:a building where collections of objects that are important to history, art, or science are kept and shown to the public.
+poetry:noun:poems as a group.
+student:noun:a person who goes to a school or college.
+coin:noun:a piece of metal money that is small, flat, and round.
+child:noun:a young human; baby.
+position:noun:the location of a person or thing.
+throat:noun:the narrow passage inside the neck.
+literature:noun:writings that have lasting value.
+dismissal:noun:an act or instance of dismissing.
+prince:noun:the son or grandson of a king or queen.
+association:noun:a group of people joined together for a common purpose or by a shared interest.
+ministry:noun:the duties and functions of a religious minister.
+closure:noun:the act of closing or state of being closed.
+river:noun:a large natural stream of water flowing in a particular course toward a lake, ocean, or other body of water.
+theory:noun:a reasonable, widely accepted explanation for why something happens.
+casualty:noun:a person in the armed forces who is killed, wounded, or missing in action.
+board:noun:a flat, cut piece of wood; plank.
+knife:noun:a tool with a handle and a thin, sharp blade, used for cutting.
+wing:noun:either of a pair of movable body parts used by birds, bats, or insects to fly.
+population:noun:the people who live in an area, considered as a group.
+cover:verb:to put or spread something over or on.
+objection:noun:a statement of not liking or not agreeing with something.
+end:noun:the point at which anything that has length starts or stops.
+motor:noun:a machine that causes motion or power.
+spot:noun:a mark, such as a stain, different in color from the area around it.
+consumer:noun:someone who buys goods or services.
+table:noun:a piece of furniture with a flat top supported by one or more legs.
+route:noun:a road or course of travel from one place to another.
+collector:noun:a person who collects money such as fees or taxes.
+crash:verb:to strike violently while riding or moving.
+smoke:noun:the visible black, gray, or white gases given off into the air by something that is burning.
+hike:verb:to take a long walk in the country for fun, exercise, or training.
+intention:noun:a decided course of action; plan.
+instruction:noun:the act of giving knowledge; teaching.
+reception:noun:the act or process of receiving.
+production:noun:the act or process of making or producing.
+Cow:noun:the adult female of cattle.
+excrete:verb:to get rid of from the body.
+kitchen:noun:a room where food is stored and cooked.
+assessment:noun:the amount of a tax, fine, or the like that is assessed.
+pool:noun:any small area of liquid that has collected on a surface; puddle; pond.
+assistance:noun:the act of giving aid or support.
+risk:noun:a chance of getting hurt or losing something.
+requirement:noun:something that is needed or necessary.
+smile:verb:to wear an expression on the face in which the corners of the mouth turn up and the eyes get brighter.
+choice:noun:the act of picking or choosing; selection.
+advertisement:noun:a public notice that tells people about products, services, or things that are happening.
+weather:noun:the conditions outside at a particular place and time.
+frequency:noun:the condition of happening often or being frequent.
+block:noun:a solid piece of hard material, such as wood or concrete, with flat sides.
+tendency:noun:the fact of being likely to move in a certain direction.
+solution:noun:the act or process of solving a problem or question.
+leather:noun:material made from the skin of an animal by removing the hair and tanning.
+dock:noun:a raised platform that is built out into the water, or the water between two such platforms.
+ceiling:noun:the top inside surface of a room.
+scandal:noun:an action, situation, or behavior that seriously offends societal standards of propriety or morality.
+printer:noun:a person whose job or trade is printing.
+Beaver:noun:a large rodent, up to four feet long, with thick brown fur and a wide flat tail.
+Hope:noun:a feeling or chance that something will happen the way one wants it to.
+Energy:noun:the power or ability to make something work or be active.
+cheese:noun:a food made by pressing together a mass of soft, thick soured milk solids.
+possibility:noun:the fact or state of being possible.
+activity:noun:the condition of being active or doing something.
+delay:verb:to put off until a later time.
+bus:noun:a long motor vehicle with many rows of seats used to carry large numbers of people.
+removal:noun:the act or process of removing.
+offer:verb:to present to be accepted or refused.
+watch:verb:to look closely or carefully.
+painter:noun:one who paints pictures.
+general:adjective:relating to all or most of something or of some group; not limited to any particular thing or member.
+context:noun:the setting of a word or phrase in speaking or writing that determines or affects its meaning.
+pleasure:noun:a feeling of happiness, delight, or joy.
+use:verb:to bring into service.
+Lizard:noun:a reptile with rough, scaly skin, four legs, and a long tapering tail.
+silk:noun:a fine, soft, shiny fiber produced by certain insects.
+tundra:noun:one of the huge plains in the arctic regions of North America, Europe, and Asia.
+profit:noun:the amount of money made by a business that is more than the amount put in at the start or paid out as expenses.
+nursery:noun:a room where babies or young children sleep or play.
+fortune:noun:a large amount of money or wealth.
+column:noun:an upright structure that looks like a post.
+adviser:noun:a person who gives advice.
+essence:noun:that which makes something what it is; central nature.
+cry:verb:to make a loud shout or yell (sometimes followed by "out").
+attraction:noun:the act or power of attracting.
+inspection:noun:the act or an instance of inspecting.
+murder:noun:the deliberate and unlawful killing of a person.
+fee:noun:an amount of money requested or paid for a service.
+benefit:noun:an object, action, or sum of money that improves someone's life; aid.
+total:adjective:making up or including the whole; entire; full.
+refugee:noun:a person forced to leave his or her home or country to seek safety or protection.
+yes:adverb:it is as you say or ask (used to express agreement or acceptance).
+database:noun:a large collection of information in a computer.
+coverage:noun:the amount or type of protection available against loss or liability as provided by insurance or reserve funds, or the protection itself.
+Sir:noun:(often capitalized) a form of address for a man, usually used in place of his name.
+generation:noun:the entire group of people who were born around the same time.
+Gopher:noun:a small rodent with gray or brown fur and a short tail.
+Raccoon:noun:a small mammal with brown and gray fur, a long tail with black rings, and a pointed face with black markings that look like a mask.
+feature:noun:a part of the face such as the eyes, nose, or chin.
+Walrus:noun:a large mammal with tusks and thick, brown skin.
+classification:noun:the act or result of classifying.
+Cobra:noun:a poisonous snake found in Asia and Africa.
+childhood:noun:the period or state of being a child.
+text:noun:the main part of a printed work, not including such things as the title, headings, and questions.
+vehicle:noun:something used to carry and move people or things.
+programme:noun:a plan of what will be done; schedule.
+tune:noun:a specific series of pleasing musical tones; melody.
+perspective:noun:a way of showing objects on the flat surface of a picture so that they seem the correct size and distance from one another.
+dollar:noun:the main unit of money in the United States, Canada, and several other countries.
+judgment:noun:an opinion formed after carefully studying all of the information.
+Bird:noun:an animal with two wings, two feet, and a body covered with feathers.
+Hall:noun:a narrow passageway in a building; corridor.
+conversation:noun:talk between people.
+vessel:noun:a hollow container for liquids.
+consciousness:noun:the physical condition of being awake and aware.
+Tree:noun:a woody plant that has a long main trunk and many branches.
+administration:noun:the act of being in charge of or managing something.
+incident:noun:something that happens; a single event.
+moment:noun:a very short amount of time.
+Conservative:adjective:wanting things to stay as they are; not favoring change.
+menu:noun:a list of foods served at a restaurant.
+camera:noun:a device for taking photographs.
+Donkey:noun:a mammal with hooves that is closely related to the horse.
+belief:noun:a strong opinion.
+reward:noun:something of value that is promised to someone for good work or a good deed.
+register:noun:a book used to record names, events, or other information.
+producer:noun:a person or company  that makes something.
+VAT:noun:a very large barrel, tub, or tank, used for holding liquids.
+variable:adjective:likely to change; not constant.
+Court:noun:an open space surrounded by buildings or walls; courtyard.
+threat:noun:a statement that harm or punishment will follow.
+holder:noun:an object used for holding.
+radiation:noun:the waves of energy sent out by sources of heat or light, or by radioactive material.
+Goose:noun:a water bird that looks like a duck but is usually larger, with a longer neck and legs and a more pointed bill.
+basket:noun:a container made of materials such as wood strips, grass, or straw that are woven or laced together.
+manner:noun:a way of doing something; style.
+worm:noun:an animal with a long, thin, round or flat body.
+squad:noun:a small number of persons trained to work together.
+airport:noun:a large area of level land where airplanes can land and take off.
+decline:verb:to refuse to do, in a polite way.
+fish:noun:an animal that lives in water and has fins for swimming and gills for breathing.
+federation:noun:a government or league formed by the union of several states, clubs, or other groups.
+convention:noun:a formal meeting or gathering where people discuss shared interests.
+rope:noun:a strong cord of twisted or woven fiber, wire, or similar material.
+cloth:noun:material made by weaving threads of cotton, wool, nylon, or other fibers; fabric.
+perception:noun:the ability to become aware of or know through the senses.
+tree:noun:a woody plant that has a long main trunk and many branches.
+merit:noun:worth or high quality.
+control:verb:to use power to manage or command.
+auditor:noun:one who audits record or accounts.
+contest:noun:a fight or struggle to win or to be better.
+couple:noun:two things of the same kind or that go together in some way.
+member:noun:one of the people or things in a particular group.
+blanket:noun:a thick piece of material used on a bed for warmth or worn as clothing.
+faith:noun:trust or confidence.
+operator:noun:someone who controls the working of a machine or the activities of a business.
+danger:noun:a chance or likelihood that something bad or harmful may happen; peril; risk.
+redundancy:noun:the state or quality of being redundant.
+Moose:noun:the largest kind of deer.
+Sea lion:noun:a mammal that spends most of its life in the ocean.
+passage:noun:a way through which something can pass; corridor; channel.
+difference:noun:the condition of being different from or not like.
+talk:verb:to use spoken words.
+fiction:noun:writing that tells a story made up in a writer's imagination.
+pressure:noun:a steady force upon a surface.
+mechanism:noun:the whole or parts of a machine, mechanical system, or device.
+capitalism:noun:an economic system in which land, factories, and other resources are owned by individuals instead of the government.
+class:noun:a group of people or things that are similar in certain ways.
+barrier:noun:something that blocks the way such as a fence or wall.
+dark:adjective:having little or no light.
+bottom:noun:the lowest or deepest part of something.
+island:noun:an area of land smaller than a continent and surrounded by water on all sides.
+dance:verb:to move the feet and body in a rhythmic way, usually to music.
+energy:noun:the power or ability to make something work or be active.
+house:noun:a building with connected rooms in which people of the same family or group live.
+constituency:noun:the body of voters from a district represented by an elected official.
+link:noun:one of the separate closed pieces of a chain.
+Wood:noun:the hard material lying under the bark that makes up the trunk and branches of a tree.
+gardening:noun:an area of land used for growing flowers or vegetables.
+theme:noun:the main subject or topic.
+mortgage:noun:a written agreement by which a bank or other institution agrees to lend money so that one can buy a property.
+DNA:abbreviation:a substance found in cells that contains information about the characteristics of a living thing.
+problem:noun:a question or condition that is difficult to understand or to deal with.
+copy:noun:something that looks exactly like another.
+uniform:adjective:always the same; never changing.
+ratio:noun:a relation or comparison between numbers or things based on amount or degree.
+extension:noun:the act of extending or condition of being extended.
+grip:noun:a firm grasp.
+pensioner:noun:someone who receives a regular payment because of retirement or disability; person who collects a pension.
+grass:noun:a green plant with narrow pointed leaves and stems with joints.
+golf:noun:a game played on a large outdoor course with small holes in the ground spaced far apart.
+Peacock:noun:a male peafowl.
+run:verb:to make oneself go forward by moving the legs very quickly.
+variety:noun:change or difference; diversity.
+enthusiasm:noun:a strong interest in something.
+engineer:noun:one who is trained in the use or design of machines or engines, or in other technologies.
+professional:adjective:of or having to do with a certain job or work.
+mood:noun:the way a person feels at a certain time.
+arrest:verb:to slow down; block; stop.
+deck:noun:the floor on a ship or boat.
+heart:noun:the organ that pumps blood through the body of a person or animal.
+demand:verb:to ask for forcefully; order.
+critic:noun:anyone who judges or evaluates.
+deputy:noun:a person appointed to assist and sometimes act in the place of someone else.
+flame:noun:the mixture of burning gas and vapor that rises from an object that is on fire.
+charity:noun:something given to a person or persons in need.
+carriage:noun:a vehicle with wheels that is covered or enclosed and is used for carrying people.
+isle:noun:an island.
+efficiency:noun:the state of being efficient.
+mirror:noun:a smooth surface that reflects an image of whatever is in front of it.
+Angle:noun:the figure made by two lines coming from a single point.
+representative:noun:a person who speaks or acts for a group or community.
+pond:noun:a small body of still water.
+learn:verb:to get to know or gain knowledge of through study or experience.
+gas:noun:a form of matter that is neither liquid nor solid.
+road:noun:a long, narrow course, with a smooth surface for vehicles and people to travel on from one place to another; street.
+disease:noun:a condition that causes harm to the health of a person, animal, or plant; illness; sickness.
+patient:noun:a person or animal that is getting medical treatment.
+crisis:noun:the point or moment just before a very important change.
+marriage:noun:the state of two people being joined by law, having pledged to be faithful to one another all their lives as a couple.
+dose:noun:an amount of medicine to be taken at one time or at certain times.
+Agriculture:noun:the science and work of raising crops and farm animals; farming.
+partner:noun:a person who shares in an activity with another person.
+technique:noun:the particular method or way of doing or performing something.
+establishment:noun:the act of establishing.
+CAT:noun:a small, furry mammal with whiskers, short ears, and a long tail.
+entry:noun:an act or instance of entering; entrance.
+delight:noun:great pleasure or joy.
+form:noun:structure or shape.
+compensation:noun:something given in return for or to make up for something else.
+success:noun:a person or thing that does or goes well.
+corridor:noun:a hall or passageway.
+telephone:noun:a device used to send sound or some other signal over long distances by wire or radio waves.
+truth:noun:agreement with the facts or what is real.
+South:noun:the direction to the right of a person facing the rising sun.
+horror:noun:a great and painful feeling of fear or shock.
+parent:noun:a mother or a father.
+habit:noun:a regular action; routine.
+origin:noun:the point or place from which something comes; source.
+course:noun:progress from one point to another; movement.
+airplane:noun:a machine that can fly because of the force of air upon its wings; plane.
+scout:noun:a person, ship, or plane sent to spy or gather information.
+bathroom:noun:a room with a toilet and often a sink or bathtub.
+right:adjective:in keeping with what is fair and good.
+coup:noun:a brilliant and successful action or maneuver.
+review:noun:an article in a newspaper or magazine that judges the worth of a recent book, film, play, or other work of art.
+code:noun:a set of rules or laws.
+cycle:noun:a circle of events that repeats in a regular pattern.
+sight:noun:the ability to see; vision.
+dialogue:noun:a talk between two or more people or between characters in a play, film, or novel.
+gap:noun:a space or opening made by or as if by breaking or separating.
+address:noun:a formal speech or talk.
+instance:noun:a case, example or occasion.
+charcoal:noun:the solid, black form of carbon made by burning wood or other matter in a space with very little oxygen.
+definition:noun:the statement of the meaning of a word or phrase.
+execution:noun:the act of executing or carrying out.
+speculation:noun:the act or process of thinking, wondering, or guessing about something.
+anniversary:noun:the date each year that is the same date on which a wedding or other important event happened.
+distance:noun:the measure of space between things, places, or points in time.
+tutor:noun:a person who gives private instruction to a student.
+abuse:verb:to use in a way that is wrong or bad; misuse.
+Whale:noun:a very large mammal that lives in the water.
+organ:noun:a musical instrument with a keyboard.
+Land:noun:the solid part of the earth's surface.
+rise:verb:to stand after lying, kneeling, or sitting.
+ownership:noun:the state or fact of being an owner.
+million:noun:the word for the number represented by the Arabic numeral 1,000,000.
+sea:noun:the salt water covering most of the earth; ocean.
+evidence:noun:something that gives proof or a reason to believe.
+response:noun:a written or spoken answer; reply.
+blue:noun:the color of a clear sky; the color between green and violet on the color spectrum.
+command:verb:to order or instruct.
+input:noun:information that is put into a computer.
+Falcon:noun:a bird with long, powerful wings and a hooked beak.
+Assumption:noun:something that is supposed or believed without questioning.
+retirement:noun:the act of retiring.
+daughter:noun:a person's female child.
+graduate:noun:a person who has finished studying at high school or college.
+motive:noun:an idea, need, desire, or impulse that causes a person to act in a particular way or do a particular thing; reason.
+residence:noun:a house or any other place where one lives; home.
+grain:noun:the small hard seeds of cereal plants such as wheat or rice.
+mollusk:noun:an animal in a large group of invertebrates or animals without backbones.
+household:noun:the group of people, such as a family, that lives in a particular house.
+spirit:noun:a force that is thought to be a part of human beings; soul.
+sign:noun:something that shows or demonstrates a fact, event, or quality; indication.
+expansion:noun:the act or process of expanding, or the condition of being expanded.
+conduct:noun:the way one acts; behavior.
+part:noun:a separate piece or section of a whole.
+Hippopotamus:noun:a very large, round mammal that has short legs with hooves and thick skin with almost no hair.
+autonomy:noun:freedom and independence; self-governance.
+group:noun:a collection of people, things, or ideas that are in one place or are related by characteristics; cluster.
+reform:noun:the changing of wrong or bad conditions to make them better.
+executive:noun:a person who has a managing or directing role in a business or government.
+Blue Jay:noun:a common jay bird of eastern North America.
+resignation:noun:the act of giving up a job or other position, or a formal letter announcing this.
+Gorilla:noun:a very large ape that lives in African forests.
+animal:noun:one of a large group of living things that can move around by themselves to find food.
+mummy:noun:a dead body that has been preserved with special chemicals and wrapped in cloth.
+category:noun:a particular section of a main group; class.
+circle:noun:a closed curve made up of points that are all the same distance from a fixed center point.
+weakness:noun:the quality or condition of being weak.
+shower:noun:a fall of rain that lasts a short time.
+boy:noun:a male child or teenager.
+birth:noun:the act or fact of being born.
+equity:noun:the quality of being fair and reasonable; fairness.
+disability:noun:the condition or state of being unable to do certain things, especially when caused by an injury, illness, or other medical condition.
+hospital:noun:a place where sick or hurt people go to find care or help.
+trade:noun:the act of exchanging or buying and selling goods.
+curve:noun:a line that bends smoothly in one direction without any straight parts or angles.
+deposit:verb:to hand over to a bank or other safe place.
+dad:noun:(informal) father.
+server:noun:a person who serves food.
+horizon:noun:the line where the earth and the sky appear to meet.
+panel:noun:a section of a door, wall, or other surface that is set apart from the area around it by being raised, sunken, or decorated.
+disk:noun:any thin, flat, round object, or one that appears flat and round.
+culture:noun:the language, customs, ideas, and art of a particular group of people.
+ability:noun:the power to do something; the quality of being able.
+source:noun:the start or cause of something.
+dimension:noun:size as measured in length, width, or depth.
+figure:noun:a number or other written symbol that is not a letter of the alphabet.
+institution:noun:an organization set up for a specific purpose, usually serving the public.
+estate:noun:a piece of land with a large house on it.
+heel:noun:the rounded, back part of the human foot, or a part like it in an animal.
+cell:noun:a tiny unit of plant or animal life, having a nucleus and surrounded by a very thin membrane.
+Zebra:noun:a large mammal with a striped coat, long legs, and hooves.
+God:noun:a being that is worshipped and believed to have special powers over nature or life.
+mountain:noun:a land mass with great height and steep sides that is higher than a hill.
+prison:noun:a building for holding and punishing people who have broken the law.
+lunch:noun:a meal eaten in the middle of the day, or any light meal during the day.
+lung:noun:one of two organs in the chest that are used in breathing.
+morals:adjective:having to do with what is right and what is wrong in how a person acts.
+discrimination:noun:the act of seeing differences or distinguishing.
+clash:verb:to strike together with force, making a loud noise.
+rain:noun:drops of water that form in the clouds and fall from the sky to the earth.
+extent:noun:the area or amount to which something extends; reach or range.
+aim:verb:to point carefully with the hope of hitting something or someone.
+dinosaur:noun:one of a group of extinct animals.
+reptile:noun:a cold-blooded animal with a skeleton inside its body and dry scales or hard plates on its skin.
+bishop:noun:a clergyman who holds a high position in certain Christian churches.
+hate:verb:to dislike very strongly; detest.
+finish:verb:to reach or cause the end of; complete.
+parliament:noun:a group of people who make the laws for a country.
+Cheetah:noun:a large, wild cat of Africa and southern Asia that has solid black spots on its fur.
+symptom:noun:a sign of something.
+lumberjack:noun:a person whose work is to cut down trees and deliver them to a lumber mill.
+sense:noun:any of five ways to understand or experience one's surroundings.
+enemy:noun:one who hates or wants to harm another.
+Lord:noun:a person who rules.
+airline:noun:a system of transportation that allows people to fly from one place to another, or a business that owns and operates the equipment to do this.
+scene:noun:the place where any event takes place.
+witness:verb:to watch or be present at.
+objective:noun:a goal or purpose that a person works to achieve; aim.
+request:noun:the act of asking for something.
+hour:noun:a unit of time equal to sixty minutes.
+rubbish:noun:material that is thrown away or useless; garbage.
+Price:noun:the sum of money needed to buy an item or service.
+pattern:noun:an arrangement of shapes, lines, letters, numbers, or colors that can be repeated or used again and again.
+direction:noun:control or guidance.
+role:noun:the character played by an actor.
+concentration:noun:the act or process of concentrating, or the state of being concentrated.
+Chain:noun:a row of links, usually made of metal, that are joined together and used to pull, hold, or fasten something.
+answer:noun:a reply.
+Farmer:noun:a person who owns or runs a farm.
+alternative:noun:one of two or more choices.
+edge:noun:a line where two surfaces meet.
+eye:noun:the organ of the body that gives animals sight, and the area close around it.
+purchase:verb:to get by paying money for; buy.
+musician:noun:a person skilled at playing, singing, or writing music.
+successor:noun:a person or thing that comes after or follows another.
+recognition:noun:the act of realizing that one knows someone or something.
+dust:noun:tiny, dry pieces of soil, dirt, or other material.
+builder:noun:someone or something that builds, especially a person who makes buildings such as houses.
+knee:noun:the joint between the upper and lower parts of a human leg.
+import:verb:to bring in from another country, especially as something to be sold.
+care:noun:serious attention.
+minority:noun:a part or amount that is less than half the total.
+thousand:noun:the word for the the Arabic numeral 1000 and the Roman numeral M.
+campaign:noun:a series of planned actions carried out in order to reach a particular goal.
+crystal:noun:a clear kind of rock that has a regular shape.
+SALT:noun:a white substance that is found in sea water and in the earth.
+Monkey:noun:a small mammal that is one of the primates.
+gender:noun:the sex of a person or animal.
+degree:noun:a stage or step in a course of action.
+poll:noun:the collection and counting of votes in an election.
+Alpaca:noun:an animal with long legs and a long neck.
+tin:noun:a soft, light gray metal that is one of the chemical elements.
+harbour:noun:a sheltered area of water where boats can be anchored.
+Wave:noun:a moving ridge or swell on the surface of a body of water.
+probability:noun:the condition or fact that something might happen.
+initiative:noun:the power, energy, or ability to organize or accomplish something.
+reason:noun:a cause or explanation for an action, opinion, or event.
+firewood:noun:wood that is burned for cooking or heating.
+smell:verb:to sense the odor of by means of the nose.
+Anaconda:noun:a very large snake found in South America.
+noise:noun:sound or a sound.
+integration:noun:the process of bringing all parts together into a whole.
+province:noun:one of the divisions of some countries, each with its own government.
+relationship:noun:the condition or fact of being related or connected.
+option:noun:the right, power, or freedom to choose.
+Treasury:noun:the money of a club, business, government, or other group.
+violence:noun:a strong force that can harm or damage.
+kingdom:noun:a country that is ruled by a king or queen.
+log:noun:a large, thick piece of a tree that has been cut down and is ready for sawing, burning, or building.
+chicken:noun:a common farm bird that is raised for its meat and eggs.
+shoe:noun:a protective covering for the human foot, often made of leather or canvas.
+Octopus:noun:a sea animal with a soft, rounded body and eight long tentacles.
+winner:noun:one that wins or is likely to win or succeed.
+advance:verb:to move or send forward.
+outcome:noun:a result of something.
+lane:noun:a narrow passage, as between hedges, walls, or buildings.
+density:noun:the state or condition of having parts very close together with little space between.
+creature:noun:a living person or animal.
+newspaper:noun:a publication made of several large sheets of folded paper printed with news, opinions, advertisements, and other information.
+skirt:noun:a piece of clothing that hangs from the waist and is worn by a woman or girl.
+channel:noun:a long, narrow body of water that joins two larger bodies of water.
+cost:noun:the amount of money charged or paid for something.
+sensation:noun:a condition of being aware of something or feeling something by means of one of the senses.
+secret:adjective:kept from being seen or known by others; private.
+Fox:noun:a wild mammal that has a pointed nose, pointed ears, and a bushy tail.
+people:noun:human beings; persons.
+clock:noun:a device, other than a watch, for measuring and showing the time.
+government:noun:the power to make laws and important decisions that control or affect all people living in a community, state, or nation.
+home:noun:the place where a person or animal lives.
+brick:noun:a hard block of dried or baked clay used as a building material.
+acceptance:noun:the act of accepting something that is given.
+photograph:noun:a picture made by using a camera that records an image on a surface that is sensitive to light.
+arrangement:noun:the act of putting things in order or in some particular way that is desired.
+error:noun:a mistake in thought or action; something that is wrong.
+cheque:noun:a test or search to make sure that something is correct or in order.
+change:verb:to make different; alter the content or form of.
+shame:noun:a painful feeling brought about by the knowledge that one has done something wrong or not proper.
+statement:noun:something stated in words.
+user:noun:one that uses.
+fat:noun:a white or yellow oily substance found in some parts of animals or plants.
+observation:noun:the act or an instance of perceiving the environment through one of the senses.
+unit:noun:a single thing that is one of a group of similar things.
+addition:noun:the act or process of adding.
+computer:noun:an electronic device that is used to store and sort information and work with data at a high speed.
+hygiene:noun:the practice of keeping clean to stay healthy and prevent disease.
+flow:verb:to move in a smooth, steady stream.
+mouse:noun:a very small mammal with gray or brown fur.
+afternoon:noun:the period between noon and evening.
+directory:noun:a list of names and addresses of people or businesses.
+layer:noun:a thickness of something that is spread over a surface.
+military:adjective:having to do with war.
+provision:noun:the act of giving something needed; providing.
+hypothesis:noun:a prediction or educated guess that can be tested and can be used to guide further study.
+character:noun:all those things that make a person, place, or thing different from others.
+buyer:verb:to get in return for paying money; purchase.
+burden:noun:something that is carried or difficult to bear.
+council:noun:a group of persons gathered together to discuss or make decisions about public matters.
+organization:noun:the act or process of organizing.
+disorder:noun:lack of order or arrangement.
+leaflet:noun:a printed piece of paper that is usually given to people free of charge.
+beam:noun:a long, strong piece of wood or metal used to support floors, ceilings or roofs.
+thing:noun:that which is spoken of, thought of, or done.
+Cuckoo:noun:a bird of Europe and America with a slim body and a long tail.
+regime:noun:a system of rule or government.
+camper:noun:a person who stays at a camp or goes camping.
+breast:noun:the front part of the body between the neck and the stomach; chest.
+worry:verb:to feel anxious, troubled, or uneasy.
+curriculum:noun:the courses offered at a school or in a particular area of study.
+strategy:noun:a plan, method, or series of actions meant to perform a particular goal or effect.
+Monitor lizard:noun:see monitor.
+penalty:noun:a punishment given for breaking a law, rule, or  agreement.
+festival:noun:a ceremony or celebration that repeats, often once a year, and involves special activities or amusements.
+molecule:noun:the smallest unit of a substance that has all the properties of that substance.
+impression:noun:a strong feeling, idea, or opinion that comes from experience with something.
+Bobcat:noun:a wild cat with red-brown fur, tufted ears, and a short tail.
+weapon:noun:an object or device used to attack or defend.
+departure:noun:the act or an occasion of leaving or going away.
+constituent:adjective:forming a part of something.
+phenomenon:noun:a happening or fact that can be seen or known through the senses.
+insect:noun:a very small animal with a hard covering over its body.
+contribution:noun:the act of contributing.
+jungle:noun:land covered with many trees, vines, and bushes; a tropical rain forest.
+dozen:noun:a group of twelve.
+acid:noun:a chemical substance that dissolves in water, has a sour taste, and turns blue litmus paper red.
+competition:noun:the process or act of trying to win.
+restriction:noun:something that limits or restricts.
+liability:noun:the condition of or potential for being held responsible.
+specification:noun:the act of specifying.
+diamond:noun:a clear mineral that is a crystal form of pure carbon.
+minister:noun:a person authorized to perform or help at the religious services of some religions.
+valley:noun:a long area of low land between mountains or hills.
+crack:verb:to break apart with a snapping sound.
+slope:verb:to slant up or down.
+editor:noun:a person who reads and corrects materials for publication.
+function:noun:the purpose or role that an object or a person fulfills or is suited for.
+blade:noun:the cutting part of a knife, sword, scissors, or saw.
+guilt:noun:the fact of having done something wrong or having broken a law.
+remedy:noun:something used to take away pain or heal a disease.
+church:noun:a building used for public Christian religious services.
+dress:noun:a piece of clothing usually worn by girls or women.
+raid:noun:a sudden, surprise attack.
+commissioner:noun:the head of a government department.
+gold:noun:a soft, heavy, yellow metal that is one of the chemical elements.
+councillor:noun:someone who belongs to a council.
+Opposition:noun:the act or state of being against, or the state of having someone against another.
+effort:noun:the action of physical or mental energy.
+passenger:noun:a person who is not driving, but travels in an automobile, bus, train, or other vehicle.
+magazine:noun:a printed collection of stories, pictures, articles, and advertisements.
+folk:noun:a group of people who come from the same country and share the same kind of life.
+leader:noun:one that leads or guides.
+accuracy:noun:the condition of being accurate.
+adventure:noun:a journey or activity that is dangerous or exciting.
+border:noun:edge; boundary.
+Bison:noun:a very large mammal with a large head, humped shoulders, and short curved horns.
+characteristic:adjective:having to do with a typical or special quality of a person, group, action, or thing.
+fashion:noun:the style of clothes or way of acting that is popular.
+confusion:noun:the act of confusing or state of being confused.
+gallery:noun:an upper floor which opens over a theater or large hall; balcony.
+Wolf:noun:a wild mammal that has a pointed nose, pointed ears, and a bushy tail.
+plate:noun:a flat, round dish from which food is served or eaten; the food on such a dish.
+proposal:noun:a suggested plan.
+space:noun:the area that contains the entire material world and its events.
+suicide:noun:the act of killing oneself on purpose.
+monarchy:noun:a nation or government ruled by or in the name of a king or queen.
+assignment:noun:an assigned task, such as a job or lesson.
+atmosphere:noun:the gases surrounding the earth or other similar objects in outer space.
+businessman:noun:a man who works in business, especially in a high position at a company.
+bag:noun:a soft container made of cloth, paper, or leather, used to hold things; sack; pouch.
+punishment:noun:a penalty for doing something wrong.
+battery:noun:a device that makes electricity by using chemical reactions.
+digestion:noun:the process by which the stomach and intestines change food into a form that the body can use as energy.
+disappointment:noun:the act of disappointing.
+debt:noun:something owed to another person.
+dictionary:noun:a book, or a source of information found on a computer, that lists the words of a language in alphabetical order, along with information about their meaning, spelling, and pronunciation.
+evolution:noun:the process of changing and adapting to an environment over time.
+discretion:noun:the freedom or authority to use one's own judgment.
+potato:noun:a kind of thick, underground plant stem that is eaten as a vegetable.
+attempt:verb:to try or seek.
+fence:noun:a structure used to mark off an area or to keep animals or people in or out.
+Bath:noun:the act of washing or soaking something in order to clean, refresh, or heal.
+Worth:preposition:good or important enough for.
+appendix:noun:a section at the end of a book or magazine article that gives more information.
+Condor:noun:one of two kinds of vultures that are the largest flying birds of the Western Hemisphere.
+asset:noun:something useful or valuable.
+funeral:noun:a ceremony for a dead person.
+value:noun:the worth, importance, or usefulness of something.
+Restoration:noun:the act or process of restoring.
+Son:noun:a person's male child.
+station:noun:the place where a person or thing is normally found.
+vote:noun:a formal expression of a choice in an election or other group decision.
+companion:noun:one who spends time with another or others.
+commonwealth:noun:a state or nation governed by the people.
+Heaven:noun:(usually plural) the sky, including the stars, sun, moon, and planets as seen from the earth.
+purchaser:verb:to get by paying money for; buy.
+authority:noun:the right or power to give orders, make decisions, or control people.
+dream:noun:a series of pictures or visions that a sleeping person experiences.
+matter:noun:all substances that contain atoms and take up space.
+range:noun:the two points or limits between which something can vary, or the distance between the limits.
+drama:noun:a story written so that it can be acted out for an audience; play.
+foot:noun:the end part of the leg of humans and other animals, on which the body stands and walks.
+legislature:noun:a group of people within a government that has the power to make or change laws.
+Crane:noun:a tall wading bird with long legs and a long neck and bill.
+distinction:noun:a mark or feature that makes someone or something different.
+Book:noun:sheets of paper bound together between two covers.
+Volunteer:noun:a person who offers to work or help without pay.
+Justice:noun:the upholding of what is fair, just, and right.
+deficit:noun:The amount by which something is less than what is needed.
+Constitution:noun:the set of basic laws by which a nation, state, or other organization is governed.
+routine:noun:a regular course of action.
+specialist:noun:a person who has knowledge or is an expert in a single area of study.
+nurse:noun:a person who is trained to care for sick and injured people.
+foundation:noun:the basis of something such as an action, substance, structure, or opinion.
+Bedbug:noun:a small wingless bloodsucking insect that sometimes infests human dwellings and beds.
+carpet:noun:a heavy fabric covering for floors.
+index:noun:an alphabetical list of subjects, names, or other information in a book, with page numbers given for each item.
+award:verb:to give as a prize or honor.
+observer:noun:someone who watches and listens at an event such as a meeting but does not participate in it.
+endangered species:noun:a species of plant or animal that is in danger of becoming extinct.
+resource:noun:a source of help or support.
+therapy:noun:treatment meant to cure a disease or heal an injury.
+while:noun:a period of time.
+anger:noun:a strong emotion brought on by a person or thing that causes one great pain or trouble.
+play:noun:activity that is meant to relax or amuse.
+dealer:noun:a person whose job is to buy and sell.
+tongue:noun:the movable organ in the bottom of the mouth, used for licking, tasting, swallowing, and human speech.
+health:noun:the condition of one's body or mind.
+load:noun:an amount of something carried.
+alcohol:noun:a clear liquid that burns easily and can be made from certain grains and fruits.
+attack:verb:to begin to cause harm to.
+Union:noun:the act of uniting.
+study:noun:the act of using the mind to learn.
+shoulder:noun:the part of the human body between the neck and the upper arm.
+nature:noun:basic character and qualities of a person or thing.
+button:noun:a small round flat disk that fastens clothing by fitting through a slit or loop.
+meat:noun:the flesh of animals when used as food.
+ticket:noun:a small, narrow slip of paper or thin cardboard that shows that one has paid for something.
+area:noun:a place or region.
+beauty:noun:the quality of being pleasant to the senses or beautiful; loveliness.
+estimate:verb:to make a careful guess about the amount, size, or worth of.
+pet:noun:a tame animal people keep in their homes as a companion or for pleasure.
+kiss:verb:to touch or press with the lips as a sign of love, friendship, passion, or respect.
+concert:noun:a musical or dance performance before an audience; recital.
+fungus:noun:one of a large group of living things that appear similar to plants but cannot make their own food using sunlight in the way plants do.
+trend:noun:a general course, direction, or tendency.
+subsidiary:adjective:assisting or supplementing.
+Blue Whale:noun:a mammal that lives in the ocean.
+sum:noun:the number or amount that comes from adding two or more numbers.
+tray:noun:a flat, open piece of wood, metal, or plastic used to carry, hold, or display food, drink, or small items.
+fault:noun:something wrong with a thing or person that causes problems for someone or something else.
+division:noun:the act of dividing or separating into parts.
+defendant:noun:one who is accused or sued in a court of law.
+condition:noun:a state of being or existence.
+bid:verb:to say to.
+queen:noun:a female ruler of a country who is not elected but whose mother, father, or relative was the ruler before her.
+university:noun:a large school, where people both learn and do research.
+complex:adjective:difficult to understand.
+television:noun:the process of sending pictures through the air as electrical waves over distances to be seen on a screen; TV.
+world:noun:the universe; everything that exists.
+episode:noun:one event in a series of events in a person's life or a story.
+week:noun:a unit of time equal to seven days.
+session:noun:a meeting or set of meetings of a court or a government council.
+guarantee:noun:a promise, especially in writing, that something one has bought will work properly.
+Tory:noun:a member of the Conservative party in Canada and Great Britain.
+chair:noun:a piece of furniture for one person to sit on.
+tie:verb:to fasten, secure, or bind with a cord or string.
+power:noun:the ability to act, cause, or function.
+Mosquito:noun:an insect with a thin body and two wings.
+Bell:noun:a hollow metal cup that makes a ringing sound when struck.
+sky:noun:the air or space above the earth which appears to arch over it.
+Bush:noun:a low plant with many woody branches; shrub.
+depth:noun:the condition or quality of being deep.
+volcano:noun:an opening in the earth's crust through which melted rock, ash, and gases are forced out.
+directive:adjective:providing direction or indication.
+audit:noun:an often official examination of records or financial accounts to check their accuracy, or the report of such an examination.
+Baboon:noun:a large monkey that has a long snout like a dog's.
+panic:noun:a sudden terror that often causes wild behavior and spreads to many other individuals.
+freedom:noun:the condition of being free or freed; liberty.
+specimen:noun:a part or example used to represent a larger whole.
+truck:noun:a large motor vehicle used for carrying heavy loads.
+body:noun:all the physical material that makes up a person or animal, including limbs, organs, tissue, and other parts.
+limitation:noun:that which confines or restricts.
+affair:noun:an event, matter, or happening.
+impact:noun:the force of two objects hitting or crashing into each other.
+Polar bear:noun:a large bear with thick white fur that lives in arctic areas.
+exchange:verb:to give in return for something else; trade.
+equation:noun:a statement in arithmetic that uses an equal sign to show the equality of two quantities.
+subject:noun:the topic of what is said, written, or studied.
+Frog:noun:a small, jumping animal with smooth, moist skin, long back legs, webbed feet, and no tail.
+title:noun:a name of a book, film, play, piece of music, or other work of art.
+community:noun:a particular area where a group of people live.
+package:noun:an object or bundle that is packed, wrapped, or boxed; bundle.
+trader:noun:a person who buys and sells; dealer; merchant.
+trustee:noun:a person holding and administering property in the interests of a beneficiary.
+premise:noun:a statement that forms the basis of an argument and that is usually accepted.
+front:noun:the most forward part or side of something.
+tea:noun:an evergreen bush that bears white flowers and that grows mainly in Asia.
+soldier:noun:a person who serves in the army and who is not an officer.
+sample:noun:a small part of something that shows what the whole is like.
+amendment:noun:an official change made to a bill, law, or other document.
+receipt:noun:the act or fact of receiving.
+mind:noun:the part of a person that thinks, understands, remembers, directs, and feels.
+Barracuda:noun:a fish that lives in warm ocean water and has a long body.
+complexity:noun:the state or condition of being complex or complicated.
+struggle:verb:to resist by waving the arms and legs and wriggling the body.
+ghost:noun:the spirit of a person who has died, especially one that is believed to haunt a place or living people.
+shadow:noun:the dark image cast on some surface by a person or thing blocking the light of the sun or another source of light.
+adult:adjective:having grown up; mature.
+improvement:noun:the act of improving or the condition of being improved.
+Armadillo:noun:a mammal whose body is protected by hard, bony plates.
+exhibition:noun:an act of exhibiting, or something that is exhibited.
+workshop:noun:a room or building in which a particular kind of work is done, usually involving manual or mechanical skills.
+piece:noun:a section or part separated from the whole.
+SHAPE:noun:the appearance of an object as defined by its outer surface or outline; form.
+first aid:noun:emergency medical help given to a hurt or sick person while waiting for a doctor.
+absence:noun:the fact or condition of being away or not present.
+significance:noun:great value; importance.
+Christian:adjective:of, concerning, or coming from the person, actions, or words of Jesus Christ, or the religion based on his teachings.
+profile:noun:an outline or view of something from the side.
+cloud:noun:a white or gray mass of fine drops of water or ice high in the earth's atmosphere.
+treaty:noun:a formal agreement between two or more countries.
+citizen:noun:a person who is a member of a country either because of being born there or being declared a member by law.
+fool:noun:a person who does not have good sense or judgment.
+description:noun:the act of using words to tell others what something is or was like.
+Darling:noun:a person who is loved very much by the person speaking.
+Hummingbird:noun:a tiny, brightly colored bird with a long, slender bill and narrow wings that beat very rapidly.
+conservation:noun:the act of keeping and protecting from waste, loss, or destruction.
+leg:noun:one of the body parts of an animal or human that is used for standing and walking.
+Antelope:noun:an animal with horns, a long neck, long legs, and hooves.
+rain forest:noun:a dense evergreen forest, mostly found in tropical areas, that receives a large amount of rain all year long.
+drive:verb:to cause to move by force; push.
+bottle:noun:a container with a narrow neck and no handle used to hold or pour liquids.
+spring:verb:to move upward quickly or suddenly; jump.
+hundred:noun:the word for the Arabic numeral 100 and by the Roman numeral C.
+sake:noun:reason; purpose.
+season:noun:one of the four parts of the year; spring, summer, fall, and winter.
+sphere:noun:a round, solid figure in which every point on the surface is an equal distance from the center.
+chemical:adjective:of or having to do with the science of chemistry.
+taste:verb:to experience and recognize the flavor of by putting into the mouth.
+forest:noun:a large area of land covered with many trees and other plants.
+tragedy:noun:a disaster; a very sad event.
+history:noun:everything that has happened in the past to people or things, or a telling of these events.
+site:noun:the location or proposed location of a town, city, building, or event.
+hat:noun:a covering for the head worn for warmth, protection, or decoration.
+diagram:noun:a drawing or plan that shows the parts of  something or how the parts work together.
+insight:noun:the power to understand deep meanings or truths.
+Buffalo:noun:a large mammal that has long legs, hooves, and horns, and that is closely related to cattle.
+collection:noun:the act of collecting.
+shirt:noun:a piece of clothing for the upper part of the body.
+sculpture:noun:the art or craft of making statues or other objects by carving, chiseling, or molding.
+sentence:noun:a complete unit of words in either writing or speech with a clear beginning and a full stop.
+creditor:noun:someone to whom money is owed.
+thinking:verb:to use the power of the mind.
+abbey:noun:a religious place or building where monks or nuns live.
+past:adjective:gone by in time; ended.
+avenue:noun:a wide street.
+time:noun:the system in which events appear to happen one after the next in a way that can never be turned back; the past, present, and future.
+Grasshopper:noun:an insect with long, powerful hind legs for jumping and two pairs of wings.
+copper:noun:a reddish brown metal that is one of the chemical elements.
+practice:noun:the doing of some activity many times to become skilled at it.
+disadvantage:noun:a condition or situation that makes it more difficult to succeed.
+Aphid:noun:a small insect that eats by sucking the juices of plants.
+composition:noun:the act of composing.
+argument:noun:a discussion by people who disagree.
+display:verb:to cause to be seen; show.
+tonne:noun:a unit of weight equal to one thousand kilograms.
+tank:noun:a large container used to hold liquid or gas.
+score:noun:the record of the total points earned in a game or test.
+help:verb:to aid or assist.
+turn:verb:to cause to move around a center point.
+apple:noun:a firm, round fruit with juicy white flesh and red, green, or yellow skin.
+tide:noun:the change in the height of the surface of oceans and other large bodies of water that happens about every twelve hours.
+mixture:noun:something that is made by two or more things that are mixed together.
+innovation:noun:a new idea, product, or way to do something.
+diagnosis:noun:the act or process of finding out the nature of an illness or injury by examining its signs and symptoms.
+heat:noun:a form of energy, or the state of being very warm; hotness; warmth.
+canal:noun:a channel of water made by humans for boat transportation or for bringing water to crops.
+compound:adjective:made up of two or more parts or elements.
+edition:noun:one of a series of printings of the same published work.
+break:verb:to cause to come apart into pieces; smash.
+Grass:noun:a green plant with narrow pointed leaves and stems with joints.
+supporter:noun:one who agrees with an idea, person, or group and wants it to succeed.
+emergency:noun:a serious situation or sudden crisis that calls for fast action.
+restaurant:noun:a place where meals are prepared and served to customers.
+gene:noun:a tiny section of a chromosome.
+Colony:noun:a place where a group of people come to settle which is under the control of their home country.
+Education:noun:the act or work of learning or training.
+bastard:noun:a child of unmarried parents; illegitimate child.
+chest:noun:the upper front part of the body between the neck and waist.
+certificate:noun:a statement on paper that shows or proves that certain facts are true.
+outline:noun:a line or shape showing the outside edge of a figure or object.
+Badger:noun:a furry mammal with short legs and a long body.
+reader:noun:a person who reads.
+symbol:noun:an object or picture that represents something else.
+assurance:noun:a statement meant to give confidence.
+look:verb:to use the eyes to see.
+muscle:noun:tissue in the body of animals and humans that moves parts of the body.
+shore:noun:the land beside an ocean, sea, lake, or river.
+policeman:noun:a man who is a member of a police force.
+model:noun:an example that should be copied or an ideal that others are compared to.
+revenue:noun:money gained from selling property or investing money.
+myth:noun:a story or group of stories that form part of the traditional knowledge of a society.
+string:noun:a cord or thin rope.
+development:noun:the act of developing or bringing to a completed state.
+mate:noun:a marriage partner; husband or wife.
+gain:verb:to get.
+lorry:noun:a British word for a large vehicle used for transporting goods or materials.
+Sister:noun:a female having the same parents as another person.
+medium:noun:a substance that is a means of passing on a force or an effect.
+pollution:noun:an act or instance of polluting.
+grade:noun:a level, degree, or rank in a scale.
+side:noun:one of the surfaces of an object.
+expectation:noun:the act of waiting for or looking forward to.
+compromise:noun:a settlement of a disagreement in which each side gives up something, or the result of such a settlement.
+Cross:noun:an upright line or pole with a horizontal one across it.
+wonder:verb:to feel admiration, surprise, or amazement (often followed by "at").
+boss:noun:a person who gives directions to workers and watches over their work.
+French:adjective:of or having to do with France, or its people, culture, or language.
+determination:noun:the quality of having a firm goal or being determined.
+imagination:noun:the act or power of the mind to form a thought, picture, or image of something or someone that is not present to the senses.
+circumstance:noun:a condition or fact connected with or having an effect on an event or situation.
+face:noun:the front part of the head from the forehead to the chin and from ear to ear.
+notion:noun:an idea, opinion, or view.
+Catfish:noun:a  fish with no scales and a large head, found mostly in fresh water.
+bonus:noun:a payment added to a person's regular pay as a reward for hard work.
+licence:noun:legal permission to do something, or the document that proves it.
+glory:noun:great honor, praise, or fame.
+instrument:noun:a tool or mechanical device used for special work.
+toilet:noun:a bowl that is filled with water and that has a seat and a drain.
+kettle:noun:a wide, deep pot used for boiling liquids, such as water or soup.
+cake:noun:a sweet, baked food made of flour, eggs, sugar, and flavoring.
+jury:noun:a group of people called to a court of law who listen to the facts of a case and decide its outcome.
+screen:noun:a closely woven wire mesh.
+negotiation:noun:(often plural) discussions meant to help people agree on something.
+lease:noun:an agreement for living in or using another person's property in exchange for money or something else of value.
+leadership:noun:ability or skill as a leader.
+future:noun:time that is yet to come.
+cause:noun:something or someone that brings about a result or effect.
+engine:noun:a machine that uses energy from fuel or electricity to do work, such as to move.
+Crab:noun:an animal with a wide, flat body covered by a hard shell.
+fate:noun:the power that is often believed to decide what will happen in human life or history.
+rule:noun:a law or direction that guides behavior or action.
+coast:noun:the land next to the ocean; seashore.
+wheel:noun:a round frame that turns on the axle.
+offender:verb:to cause to be angry, annoyed, or insulted.
+walk:verb:to move at a steady pace by steps.
+achievement:noun:something achieved through hard work, courage, or skill.
+guideline:noun:(often pl.
+pavement:noun:a hard surface for a road, driveway, or sidewalk.
+Pig:noun:an animal with a wide, flat nose, four short legs, a thick body, and a short, curly tail.
+doubt:verb:to not know for sure; be uncertain about the truth of.
+commander:noun:a person who leads and controls.
+respect:noun:the state or condition of being thought of with honor or admiration; such admiration itself.
+return:verb:to go back or come back.
+spending:verb:to pay out.
+Asp:noun:any of several small, poisonous snakes found in Africa and Asia Minor, such as the cobra or horned viper.
+roll:verb:to move by turning over and over.
+back:noun:the part of the body of a human or animal that is on the opposite side from the chest and between the neck and hips.
+appointment:noun:the act of choosing or naming for an office or duty.
+Lot:noun:a large amount or number.
